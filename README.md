@@ -117,7 +117,6 @@ Viikkopalaverit pidetään ryhmän alikanavalla MS Teamssilla, niin ei tarvitse 
 - Pääsääntöisesti kaikkien pitää olla paikalla
 - Yleistä keskustelua, että miten projekti on edennyt
 - Yleistä keskustelua, että miten kukin opiskelija on osallistunut
-- Kanban esittely
 - Versiohallinnan esittely (ja .gitignore käytössä)
 - Muutoksia arvosanatavoitteeseen tai tavoitteisiin ylipäätänsä
 - Vilkaistaan projektidokumenttia ja teknistä määrittelyä
@@ -163,8 +162,6 @@ Täysin extraa, ei vaikuta arviointiin:
 
 - Viikkopalaveri opettajan kanssa
   - Esitelkää mitä dokumentteihin (tekninen määrittely) on kirjattu tähän mennessä (jos on)
-  - Kanban esittely
-- Kanban-tarkastus (ja toiminnallisuuksien pilkkominen/lisäys tarvittaessa)
 - Luento:
   - Projektityökaluista ja -menetelmistä: Vesiputousmalli, Kanban, Scrum / ketterä, Github project, Jira
   - Luentotallenne (13.1.2025) Youtubessa: [Teemaluento: IaC, CI/CD, Reverse proxy](https://www.youtube.com/live/1Iiflc1Rj7o)
@@ -180,14 +177,12 @@ Täysin extraa, ei vaikuta arviointiin:
 - Viikkopalaveri
   - Esitellään dokumentit
   - Tekninen määrittely ja projektidokkari aloitettu tai valmis
-  - Kanban esittely
   - Versiohallinnan esittely
 - Luento:
   - (Extraoppimista) Ohjelmistolisensseistä: [Luentotallenne Youtubessa vuodelta 2021](https://youtu.be/57m6hktjfeg?t=225)
     - Videolla käytetyt luentokalvot [täällä](./dl/softwarelicensing.pdf)
   - Opiskelijaprojektien portfoliosta Githubiin, Markdown-kieli ja readme.md-tiedostosta projektille
   - Luentotallenne (20.1.2025) Youtubessa: [Teemaluento: Palveluiden bind ja projektien markdownista](https://youtube.com/live/Le6hPRxJn9g)
-- Kanban-tarkastus
 - Kirjoita Github-projektille kuvaus markdownilla (readme.md-tiedosto). Github osaa prosessoida markdown-kieltä suoraan readme.md:stä HTML:ksi
   - Muista päivittää omaa projektikuvausta Githubissa (readme.md) myös myöhemmin!
   - Esimerkkejä [hyvistä readme-projektitiedostoista](https://github.com/matiassingers/awesome-readme)
@@ -201,9 +196,7 @@ Täysin extraa, ei vaikuta arviointiin:
 # Viikko 4
 
 - Viikkopalaveri
-  - Kanban esittely
   - Versiohallinnan esittely
-- Kanban-tarkastus
 - Katso hetki joitakin [livenä koodaavia striimaajia Twitchistä](https://www.twitch.tv/directory/game/Software%20and%20Game%20Development) ja koita selvittää:
   - Mikä/mitkä kielet käytössä? Jotain tiettyjä frameworkeja?
   - Mikä IDE/editori?
@@ -218,9 +211,7 @@ Täysin extraa, ei vaikuta arviointiin:
 # Viikko 5
 
 - Viikkopalaveri
-  - Kanban esittely
   - Versiohallinnan esittely
-- Kanban-tarkastus
 - Sovelluksen tekemistä
 - Tämän viikon aikana pitää olla tehtynä:
   - Tekninen määrittelydokumentti (eli toiminnallisuudet) pitää olla palautettuna ryhmän Teamssiin
@@ -232,9 +223,7 @@ Täysin extraa, ei vaikuta arviointiin:
 
 - Viikkopalaveri
   - Esitellään tekninen määrittelydokumentti
-  - Kanban esittely
   - Versiohallinnan esittely
-- Kanban-tarkastus
 - Sovelluksen tekemistä
 - Tämän viikon aikana pitää olla tehtynä:
   - Projektille kirjoitettu markdown-muotoinen Readme-tiedosto Githubiin
@@ -243,9 +232,7 @@ Täysin extraa, ei vaikuta arviointiin:
 # Viikko 7
 
 - Viikkopalaveri
-  - Kanban esittely
   - Versiohallinnan esittely
-- Kanban-tarkastus
 - Sovelluksen tekemistä
 - Demovideon valmistelu
 - Ryhmä tekee yhdessä posterin englanniksi. Posteripohja löytyy Teamssista
@@ -257,7 +244,6 @@ Täysin extraa, ei vaikuta arviointiin:
 
 # Viikko 8
 
-- Kanban-tarkastus
 - Demovideo projektista:
   - Videon on oltava julkisesti saatavilla ilman kirjautumista
     - YouTubeen unlisted-videoksi (myös students.oamk.fi -tunnukset toimivat myös Youtubeen)
@@ -269,11 +255,11 @@ Täysin extraa, ei vaikuta arviointiin:
     - Mikä oli hyvää, mikä oli huonoa
     - Esitä dokumentin sisältö videon alussa
     - Kaikkien ei välttämättä tarvitse puhua videolla (mutta toki saa)
-    - Esittele Kanban
+    - Esittele mahdollinen Kanban
     - Näytä posteri videon lopuksi
     - Lisää PowerPoint- tai PDF-dokumentti Github-repositoryyn
   - Esittele pankkiautomaattiprojekti
-  - Videon pituuden tulisi olla noin 5 minuuttia, missä ehtii yleensä näyttämään keskeiset osat applikaatiosta, posterista ja kanban-taulusta.
+  - Videon pituuden tulisi olla noin 5 minuuttia, missä ehtii yleensä näyttämään keskeiset osat applikaatiosta ja posterista.
   - Videota ei käytetä loppuesityksessä
 - Loppuesitykset Teamssilla koko luokalle (osallistumispakko)
   - Ohjelman demonstrointi ja vapaata keskustelua
