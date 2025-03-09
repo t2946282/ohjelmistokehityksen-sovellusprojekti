@@ -16,7 +16,7 @@
 
 ### Ohjaajien kommentteja ja vinkkejä
 
-- Tänne on kasattu aikaisempien projektien ohjaajien kommentteja ja vinkkejä: [kommentit.html](./kommentit.html)
+- Tänne on kasattu aikaisempien projektien ohjaajien kommentteja ja vinkkejä: [kommentit.md](./dl/kommentit.md)
 
 ### Projektista
 
@@ -185,7 +185,7 @@ Täysin extraa, ei vaikuta arviointiin:
   - Versiohallinnan esittely
 - Luento:
   - (Extraoppimista) Ohjelmistolisensseistä: [Luentotallenne Youtubessa vuodelta 2021](https://youtu.be/57m6hktjfeg?t=225)
-    - Videolla käytetyt luentokalvot [täällä](./softwarelicensing.pdf)
+    - Videolla käytetyt luentokalvot [täällä](./dl/softwarelicensing.pdf)
   - Opiskelijaprojektien portfoliosta Githubiin, Markdown-kieli ja readme.md-tiedostosta projektille
   - Luentotallenne (20.1.2025) Youtubessa: [Teemaluento: Palveluiden bind ja projektien markdownista](https://youtube.com/live/Le6hPRxJn9g)
 - Kanban-tarkastus
