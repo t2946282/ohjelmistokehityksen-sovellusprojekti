@@ -143,7 +143,6 @@ Viikkopalaverit pidetään ryhmän alikanavalla MS Teamssilla, niin ei tarvitse 
 - Tämän viikon aikana pitää olla tehtynä:
   - Määrittelydokumentti alulle
   - Projektidokumentti alulle
-  - Kanban alulle Githubissa ja linkittäminen Teams-kanavelle
   - Github repository käyttöön
   - Yksityinen Teams-kanava luotu kurssin Teams-kanavan alle. Ryhmän jäsenet ja opettajat lisätty privaattikanavan omistajiksi
   - Priorisoikaa backend (tietokanta ja API), jotta käyttöliittymän voi tehdä toimimaan suoraan sitä vasten
