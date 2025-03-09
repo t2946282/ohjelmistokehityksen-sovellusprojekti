@@ -90,7 +90,7 @@ Extratehtäviä (erityisesti monimuoto-opiskelijat, joilla on jo Linux-kurssi k�
 - [20.1.2025 Teemaluento: Palveluiden bind ja projektien markdownista](https://www.youtube.com/live/Le6hPRxJn9g)
 - [21.4.2021 Teemaluento: Vähän ohjelmistolisensseistä](https://www.youtube.com/watch?v=57m6hktjfeg&t=225s)
 
-  ### Kaaviot dokumentointiin
+### Kaaviot dokumentointiin
 
 Esimerkiksi näillä työkaluilla:
 
