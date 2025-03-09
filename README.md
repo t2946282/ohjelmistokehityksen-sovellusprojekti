@@ -16,7 +16,7 @@
 
 ### Ohjaajien kommentteja ja vinkkejä
 
-- Tänne on kasattu aikaisempien projektien ohjaajien kommentteja ja vinkkejä: [kommentit.md](./dl/kommentit.md)
+- Tänne on kasattu aikaisempien projektien [ohjaajien kommentteja ja vinkkejä](./dl/kommentit.md)
 
 ### Projektista
 
