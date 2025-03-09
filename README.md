@@ -1,7 +1,7 @@
 # Ohjelmistokehityksen sovellusprojekti
 
 - Opiskelijoiden tehtävä on suunnitella ja toteuttaa pankkiautomaattijärjestelmä: [Yleisohje ja arviointiperusteet (docx)](<https://unioulu.sharepoint.com/:w:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared Documents/Tiedostot/vaatimukset_arvostelu_projektille.docx?d=wc4c36b5aff9c43d0bfcd137c89fbfb03&csf=1&web=1&e=ri44vB>)
-- 4 opiskelijan ryhmät määritellään [Excel-dokumentissa](https://unioulu-my.sharepoint.com/:x:/g/personal/tk_oamk_fi/ETmu1ZUhPdpLuY_QVFEC5gkBYR6tp3Ftdc4HKKpviBAkoA?e=dDAaA4)
+- 4 opiskelijan ryhmät määritellään [Excel-dokumentissa](<https://unioulu-my.sharepoint.com/:x:/g/personal/tk_oamk_fi/ETmu1ZUhPdpLuY_QVFEC5gkBYR6tp3Ftdc4HKKpviBAkoA?e=dDAaA4>)
 
 ### Oikopolut eri viikoille
 
@@ -63,7 +63,7 @@ Arviointi perustuu:
 
 Lisätehtäviä parempaan arvosanaan:
 
-- Qt-applikaatioon liittyviä lisäominaisuuksia (arvosanaa korottavat lisätehtävä on määritelty tarkemmin MS Word-dokumentissa). Katso [yleisohje ja arviointiperusteet \(docx\)](https://unioulu.sharepoint.com/:w:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared Documents/Tiedostot/vaatimukset_arvostelu_projektille.docx?d=wc4c36b5aff9c43d0bfcd137c89fbfb03&csf=1&web=1&e=ri44vB)
+- Qt-applikaatioon liittyviä lisäominaisuuksia (arvosanaa korottavat lisätehtävä on määritelty tarkemmin MS Word-dokumentissa). Katso [yleisohje ja arviointiperusteet \(docx\)](<https://unioulu.sharepoint.com/:w:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared Documents/Tiedostot/vaatimukset_arvostelu_projektille.docx?d=wc4c36b5aff9c43d0bfcd137c89fbfb03&csf=1&web=1&e=ri44vB>)
 
 Extratehtäviä (erityisesti monimuoto-opiskelijat, joilla on jo Linux-kurssi käytynä). Nämä eivät korota arvosanaa:
 
@@ -82,7 +82,7 @@ Extratehtäviä (erityisesti monimuoto-opiskelijat, joilla on jo Linux-kurssi k�
 ### Ohjelmistokehityksen perusteet ja UML-mallinnus videot Yujassa (Teemu Leppänen)
 
 - Teemu Leppäsen luentotallenteiden [videosoittolista \(kevät 2024\)](https://oulu.yuja.com/V/PlayList?node=3375576&a=1408679542)
-- Teamsissa [oppimateriaalit-kanava](https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit?csf=1&web=1&e=hbYrc3)
+- Teamsissa [oppimateriaalit-kanava](<https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit?csf=1&web=1&e=hbYrc3>)
 
 ### Extraa: IaC, reverse proxy, ohjelmistiolisensseistä (Teemu Korpela)
 
@@ -100,9 +100,9 @@ Esimerkiksi näillä työkaluilla:
 
 Katso näistä Teams-kanavan dokumenteista mallia teknisen määrittelydokumentin kaavioihin:
 
-- Ohjelmistokehityksen [materiaalit](https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit?csf=1&web=1&e=T5e6e4)
-- Valmiit esimerkkejä [määrittelyvaiheen kaavioista](https://unioulu.sharepoint.com/:b:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit/IN00CS90_Luku_5_Maarittelyvaihe.pdf?csf=1&web=1&e=TnPtge)
-- UML-mallinnuksen [kaavioesimerkit](https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit/UML-mallinnus?csf=1&web=1&e=0UrXUt)
+- Ohjelmistokehityksen [materiaalit](<https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit?csf=1&web=1&e=T5e6e4>)
+- Valmiit esimerkkejä [määrittelyvaiheen kaavioista](<https://unioulu.sharepoint.com/:b:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit/IN00CS90_Luku_5_Maarittelyvaihe.pdf?csf=1&web=1&e=TnPtge>)
+- UML-mallinnuksen [kaavioesimerkit](<https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit/UML-mallinnus?csf=1&web=1&e=0UrXUt>)
 - Yleinen [esimerkkikuva järjestelmäarkkitehtuurista](./dl/arkkitehtuurikuva.png)
 
 ### Softalisensseistä
@@ -132,7 +132,7 @@ Viikkopalaverit pidetään ryhmän alikanavalla MS Teamssilla, niin ei tarvitse 
 - Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden YKSITYISEN alikanavan nimeltä:
   - Ryhmä-xx-(O, L tai KMO), missä O-opiskelijoiden ryhmä 1:n kanava on nimeltään Ryhmä-01-O, O-opiskelijoiden ryhmä 2:n kanava on nimeltään on Ryhmä-02-O, jne. Katso [tästä kuvasta yleinen \(mutta nyt vanhentunut\) nimeämismalli](./dl/teams_ryhmat.png)
 - Kun ryhmän yksityinen Teams-kanava on luotu, lisää kanavalle ryhmän muut jäsenet. Lisää myös ohjaavat opettajat kanavan omistajaksi: Teemu Korpela, Pekka Alaluukas, Jukka Jauhiainen, Kari Jyrkkä, Teemu Leppänen ja Ville Majava
-- Github käyttöön (Pekan tekemän organisaation alle): [Pekan ohje](https://unioulu.sharepoint.com/:b:/s/Ohjelmistokehityksensovellusprojektitestialusta/EZ_-C1pCL_dIsQ-WMkYrdE8BfpxDQDi9hyp2sYgYqDW-HA?e=4VrQ8A)
+- Github käyttöön (Pekan tekemän organisaation alle): [Pekan ohje](<https://unioulu.sharepoint.com/:b:/s/Ohjelmistokehityksensovellusprojektitestialusta/EZ_-C1pCL_dIsQ-WMkYrdE8BfpxDQDi9hyp2sYgYqDW-HA?e=4VrQ8A>)
 - Ryhmän jäsenet sopii alustavasti kuka tekee mitäkin toiminnallisuuksia (mutta ei niin, että vain yksi tekee koko Qt-työpöytäsovelluksen, että vain yksi tekee koko tietokannan jne.)
 - Aloittakaa tekemään projektidokumenttia (pitää tehdä yhdessä). Pohja löytyy Teamsista. Tallentakaa oma versio ryhmän oman kanavan files-välilehden alle
 - Aloittakaa tekemään teknistä määrittelydokumenttia (pitää tehdä yhdessä). Pohja löytyy Teamsista. Tallentakaa oma versio ryhmän oman kanavan files-välilehden alle
