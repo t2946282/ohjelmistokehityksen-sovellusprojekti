@@ -81,7 +81,8 @@ Extratehtäviä (erityisesti monimuoto-opiskelijat, joilla on jo Linux-kurssi k�
 
 ### Ohjelmistokehityksen perusteet ja UML-mallinnus videot Yujassa (Teemu Leppänen)
 
-- Teemu Leppäsen luentotallenteiden [videosoittolista \(kevät 2024\)](https://oulu.yuja.com/V/PlayList?node=3375576&a=1408679542)
+- Teemu Leppäsen luentotallenteet [videosoittolista \(kevät 2025\)](https://oulu.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%2221064f4a-0801-451c-8e5c-b29d00e337be%22)
+- Teemu Leppäsen wanhat luentotallenteet [videosoittolista \(kevät 2024\)](https://oulu.yuja.com/V/PlayList?node=3375576&a=1408679542)
 - Teamsissa [oppimateriaalit-kanava](<https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit?csf=1&web=1&e=hbYrc3>)
 
 ### Extraa: IaC, reverse proxy, ohjelmistiolisensseistä (Teemu Korpela)
