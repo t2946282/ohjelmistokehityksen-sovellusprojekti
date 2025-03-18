@@ -138,15 +138,16 @@ Viikkopalaverit pidetään ryhmän alikanavalla MS Teamssilla, niin ei tarvitse 
 - Kun ryhmän yksityinen Teams-kanava on luotu, lisää kanavalle ryhmän muut jäsenet. Lisää myös ohjaavat opettajat kanavan omistajaksi: Teemu Korpela, Pekka Alaluukas, Jukka Jauhiainen, Kari Jyrkkä, Teemu Leppänen ja Ville Majava
 - Github käyttöön (Pekan tekemän organisaation alle): [Pekan ohje](<https://unioulu.sharepoint.com/:b:/s/Ohjelmistokehityksensovellusprojektitestialusta/EZ_-C1pCL_dIsQ-WMkYrdE8BfpxDQDi9hyp2sYgYqDW-HA?e=4VrQ8A>)
 - Ryhmän jäsenet sopii alustavasti kuka tekee mitäkin toiminnallisuuksia (mutta ei niin, että vain yksi tekee koko Qt-työpöytäsovelluksen, että vain yksi tekee koko tietokannan jne.)
-- Aloittakaa tekemään projektidokumenttia (pitää tehdä yhdessä). Pohja löytyy Teamsista. Tallentakaa oma versio ryhmän oman kanavan files-välilehden alle
-- Aloittakaa tekemään teknistä määrittelydokumenttia (pitää tehdä yhdessä). Pohja löytyy Teamsista. Tallentakaa oma versio ryhmän oman kanavan files-välilehden alle
+- Aloittakaa tekemään projektidokumenttia (pitää tehdä yhdessä). Pohja löytyy Teamsista. Tallentakaa oma versio ryhmän github-repositoryyn documents-hakemistoon.
+- Aloittakaa tekemään teknistä määrittelydokumenttia (pitää tehdä yhdessä). Pohja löytyy Teamsista. Tallentakaa oma versio ryhmän github-repositoryyn documents-hakemistoon. 
 - Katsokaa yhdessä valmiiksi viikon 2+ tavoitteet
-- Viikon luento:
+- Viikon luennot:
   - Aloitusinfo kurssin tekemiseksi
   - Asiaa Qt:stä, MySQL:stä ja C++:sta
+  - Ohjelmistotuotanto ja UML-mallinnus osa 1: Järjestelmäarkkitehtuuri, Käyttötapaukset, Tietosisältö
 - Tämän viikon aikana pitää olla tehtynä:
-  - Määrittelydokumentti alulle
-  - Projektidokumentti alulle
+  - Projektisuunnitelma alulle
+  - Tekninen määrittely-dokumentti alulle
   - Github repository käyttöön
   - Yksityinen Teams-kanava luotu kurssin Teams-kanavan alle. Ryhmän jäsenet ja opettajat lisätty privaattikanavan omistajiksi
   - Priorisoikaa backend (tietokanta ja API), jotta käyttöliittymän voi tehdä toimimaan suoraan sitä vasten
@@ -166,22 +167,24 @@ Täysin extraa, ei vaikuta arviointiin:
 # Viikko 2
 
 - Viikkopalaveri opettajan kanssa
-  - Esitelkää mitä dokumentteihin (tekninen määrittely) on kirjattu tähän mennessä (jos on)
+  - Esitelkää mitä dokumentteihin (projektisuunnitelma, tekninen määrittely) on kirjattu tähän mennessä
 - Luento:
-  - Projektityökaluista ja -menetelmistä: Vesiputousmalli, Kanban, Scrum / ketterä, Github project, Jira
-  - Luentotallenne (13.1.2025) Youtubessa: [Teemaluento: IaC, CI/CD, Reverse proxy](https://www.youtube.com/live/1Iiflc1Rj7o)
+  - Projektin suunnitteluvaihe ja UML-mallinnus osa 2: Komponenttikaavio, tilakaavio
+  - Lisämateriaali: luentotallenne (13.1.2025) Youtubessa: [Teemaluento: IaC, CI/CD, Reverse proxy](https://www.youtube.com/live/1Iiflc1Rj7o)
 - Sovelluksen tekemistä
 - Tämän viikon aikana pitää olla tehtynä:
   - Ohjelmistokehityksen perusteet ja UML-mallinnus videot katsottuna: [Soittolista luentotallenteista](https://www.youtube.com/playlist?list=PLWl0bS7jZq99iOUNmMyuT9EgU6YfxP_en)
-  - Tekninen määrittely ja projektidokumentti aloitettu tai valmis. Tekninen määrittelydokumentti pitää olla valmis vasta 5. viikon jälkeen.
+  - Projektisuunnitelma valmis.
+  - Tekninen määrittely osin tehtynä: Järjestelmäarkkitehtuuri, Käyttötapaukset, Tietosisältö 
   - CRUD-operaatioista demo
 
 
 # Viikko 3
 
 - Viikkopalaveri
+  - Projektisuunnitelma kokonaan valmis
+  - Tekninen määrittely: Järjestelmäarkkitehtuuri, Käyttötapaukset, Tietosisältö valmiina
   - Esitellään dokumentit
-  - Tekninen määrittely ja projektidokkari aloitettu tai valmis
   - Versiohallinnan esittely
 - Luento:
   - (Extraoppimista) Ohjelmistolisensseistä: [Luentotallenne Youtubessa vuodelta 2021](https://youtu.be/57m6hktjfeg?t=225)
@@ -219,15 +222,14 @@ Täysin extraa, ei vaikuta arviointiin:
   - Versiohallinnan esittely
 - Sovelluksen tekemistä
 - Tämän viikon aikana pitää olla tehtynä:
-  - Tekninen määrittelydokumentti (eli toiminnallisuudet) pitää olla palautettuna ryhmän Teamssiin
-  - Projektisuunnitelma pitää olla palautettuna ryhmän Teamssiin
+  - Tekninen määrittelydokumentti kokonaan valmiiksi 
   - Sovelluksen tekemistä
  
   
 # Viikko 6
 
 - Viikkopalaveri
-  - Esitellään tekninen määrittelydokumentti
+  - Esitellään valmis tekninen määrittelydokumentti
   - Versiohallinnan esittely
 - Sovelluksen tekemistä
 - Tämän viikon aikana pitää olla tehtynä:
