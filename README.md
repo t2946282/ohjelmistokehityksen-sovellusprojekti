@@ -155,7 +155,7 @@ Viikkopalaverit pidetään ryhmän alikanavalla MS Teamssilla, niin ei tarvitse 
   - Tietokannan, rajapinnan ja käyttöliittymän suunnittelua ja tekemistä
   - Qt-sovellus alulle
 
-Täysin extraa, ei vaikuta arviointiin:
+Täysin extraa, ei vaikuta arviointiin: **Huom! tvt24spl ja tvt24spo: ei tarvitse Kanbania**
 
 - Githubissa Kanban käyttöön ja Kanban-taulu linkitettynä ryhmän oman Teams-alikanavan omaksi välilehdeksi
   - Käytä Githubin Kanban-työkalun valmista sarakemuotoista pohjaa ja lisää / editoi siihen sarakkeet:
