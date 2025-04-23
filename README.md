@@ -252,6 +252,7 @@ Täysin extraa, ei vaikuta arviointiin: **Huom! tvt24spl ja tvt24spo: ei tarvits
 # Viikko 8
 
 - Demovideo projektista:
+  - Videon pituuden tulisi olla noin 5 minuuttia, missä ehtii yleensä näyttämään keskeiset osat applikaatiosta ja posterista.
   - Videon on oltava julkisesti saatavilla ilman kirjautumista
     - YouTubeen unlisted-videoksi (myös students.oamk.fi -tunnukset toimivat myös Youtubeen)
     - Älä aseta videon lupaa "YouTube-sisältö lapsille", koska se ei salli videon tallentamista YouTube-soittolistaan
@@ -266,9 +267,7 @@ Täysin extraa, ei vaikuta arviointiin: **Huom! tvt24spl ja tvt24spo: ei tarvits
     - Näytä posteri videon lopuksi
     - Lisää PowerPoint- tai PDF-dokumentti Github-repositoryyn
   - Esittele pankkiautomaattiprojekti
-  - Videon pituuden tulisi olla noin 5 minuuttia, missä ehtii yleensä näyttämään keskeiset osat applikaatiosta ja posterista.
-  - Videota ei käytetä loppuesityksessä
-- Loppuesitykset Teamssilla koko luokalle (osallistumispakko)
+- Loppuesitykset koko luokalle (osallistumispakko)
   - Ohjelman demonstrointi ja vapaata keskustelua
   - Posterin esittely
  
