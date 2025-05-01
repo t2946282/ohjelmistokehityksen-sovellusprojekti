@@ -1,7 +1,7 @@
 # Ohjelmistokehityksen sovellusprojekti
 
 - Opiskelijoiden tehtävä on suunnitella ja toteuttaa pankkiautomaattijärjestelmä: [Yleisohje ja arviointiperusteet (docx)](<https://unioulu.sharepoint.com/:w:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared Documents/Tiedostot/vaatimukset_arvostelu_projektille.docx?d=wc4c36b5aff9c43d0bfcd137c89fbfb03&csf=1&web=1&e=ri44vB>)
-<a href="#arviointi">Yleisohje ja arviointi</a>
+<a href="#pr_ohje">Yleisohje ja arviointi</a>
 - 4 opiskelijan ryhmät määritellään [Excel-dokumentissa](<https://unioulu-my.sharepoint.com/:x:/g/personal/tk_oamk_fi/ETmu1ZUhPdpLuY_QVFEC5gkBYR6tp3Ftdc4HKKpviBAkoA?e=dDAaA4>)
 
 ### Oikopolut eri viikoille
@@ -325,7 +325,7 @@ MySQL (ei tietoa laadusta):
 - Fundamentals of Data Engineering: [https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 - MySQL 5: [https://learning.oreilly.com/course/mysql-5/9781926873961/](https://learning.oreilly.com/course/mysql-5/9781926873961/)
 
-<span id="arviointi"></span>
+<span id="pr_ohje"></span>
   <h1>Projektityön aihe on pankkiautomaatti</h1>
 
   <h2>Ohjelmiston rakenne on seuraava</h2>
