@@ -441,12 +441,46 @@ MySQL (ei tietoa laadusta):
     <li>Gitin käyttö</li>
   </ul>
 
-  <h2>Lisäominaisuusideoita</h2>
+<section>
+  <h2>Kuvan lataus ja näyttäminen</h2>
+  <p>- Kuvan lataaminen backendiin ja näyttäminen Qt-sovelluksessa. Tämä on kokonaisen arvosanan arvoinen.</p>
+  <p>Idean esittelyvideo: <a href="https://www.youtube.com/watch?v=DlKRlZTNYl8" target="_blank">https://www.youtube.com/watch?v=DlKRlZTNYl8</a></p>
+
+  <h3>Toimintaperiaate:</h3>
   <ul>
-    <li><strong>Kuvan lataus ja näyttäminen</strong> - <a href="https://www.youtube.com/watch?v=DlKRlZTNYl8">videoesittely</a></li>
-    <li><strong>Swagger dokumentointi</strong> - <a href="https://www.youtube.com/watch?v=M6Fj5Y2K24w">video</a>, <a href="https://www.npmjs.com/package/swagger-ui-express">swagger-ui-express</a></li>
-    <li><strong>Logitus</strong> - esim. morgan-moduuli</li>
-    <li><strong>WebSocket</strong> - <a href="https://youtu.be/QGnv7s0JIIo">video</a></li>
-    <li><strong>Docker</strong> - <a href="https://youtu.be/vUuA00D4wrY">esittely 1</a>, <a href="https://youtu.be/zxcbaB6Qq0M">esittely 2</a></li>
-    <li><strong>Testaus backendissä</strong> (jest, supertest) - <a href="https://youtu.be/HEZufcp2umI">video</a></li>
+    <li>Tietokanta taulussa on tekstikenttä, johon tulee kuvan nimi (esim. <code>aku.jpg</code>).</li>
+    <li>Kuva ladataan REST APIn kansioon (yleensä <code>public</code>-kansioon).</li>
+    <li>Kuva kansioon pitää päästä esim. selaimella.</li>
+    <li>Qt-sovelluksessa kuva näytetään <code>Label</code>-komponentissa.</li>
   </ul>
+
+  <p>REST APIssa voi käyttää <a href="https://www.npmjs.com/package/multer" target="_blank">Multer-moduulia</a>.</p>
+
+  <h2>Swagger dokumentointi</h2>
+  <p>Tämä on kokonaisen arvosanan arvoinen.</p>
+  <p>Idean esittelyvideo: <a href="https://www.youtube.com/watch?v=M6Fj5Y2K24w" target="_blank">https://www.youtube.com/watch?v=M6Fj5Y2K24w</a></p>
+  <p><a href="https://www.npmjs.com/package/swagger-ui-express" target="_blank">https://www.npmjs.com/package/swagger-ui-express</a></p>
+
+  <h2>Logitus</h2>
+  <p>- Tapahtumien logittaminen backendissä ja niiden näyttäminen jollakin tavalla (<code>morgan</code>-moduuli). Pelkkä logitus on aika helppo, joten sen vaikutus n. 0,5. Mutta jos keksitte siihen jotain lisää, niin sitten isompi vaikutus.</p>
+
+  <h2>WebSocket</h2>
+  <p>Toteutetaan WebSocketeilla jokin toiminto sovellukseen.</p>
+  <ul>
+    <li>Node.js WebSocket: <a href="https://www.npmjs.com/package/ws" target="_blank">https://www.npmjs.com/package/ws</a></li>
+    <li>Qt:n websocket-moduuli</li>
+  </ul>
+  <p>Idean esittely: <a href="https://youtu.be/QGnv7s0JIIo" target="_blank">https://youtu.be/QGnv7s0JIIo</a></p>
+
+  <h2>Docker</h2>
+  <p>Sovelluksen ajaminen Dockerissa. (vaikutus arvosanaan 1)</p>
+  <ul>
+    <li><a href="https://youtu.be/vUuA00D4wrY" target="_blank">https://youtu.be/vUuA00D4wrY</a></li>
+    <li><a href="https://youtu.be/zxcbaB6Qq0M" target="_blank">https://youtu.be/zxcbaB6Qq0M</a></li>
+  </ul>
+
+  <h2>Testien lisääminen backendiin</h2>
+  <p>Esimerkiksi <code>jest</code> ja <code>supertest</code> (vaikutus arvosanaan 1)</p>
+  <p>Esittelyvideo: <a href="https://youtu.be/HEZufcp2umI" target="_blank">https://youtu.be/HEZufcp2umI</a></p>
+</section>
+
