@@ -330,7 +330,7 @@ MySQL (ei tietoa laadusta):
   <p>Työn aihe on pankkiautomaatti</p>
 
   <h2>Ohjelmiston rakenne on seuraava</h2>
-    <img src="project.png" alt="">
+    ![Projektikuva](project.png)
 
   <h3>Työ sisältää</h3>
   <ul>
