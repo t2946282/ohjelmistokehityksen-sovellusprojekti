@@ -324,4 +324,127 @@ MySQL (ei tietoa laadusta):
 - Fundamentals of Data Engineering: [https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 - MySQL 5: [https://learning.oreilly.com/course/mysql-5/9781926873961/](https://learning.oreilly.com/course/mysql-5/9781926873961/)
 
+span id="arviointi"></span>
+  <h1>Projektityön aihe on pankkiautomaatti</h1>
 
+  <h2>Ohjelmiston rakenne on seuraava</h2>
+    <img src="project.png" alt="">
+
+  <h3>Työ sisältää</h3>
+  <ul>
+    <li>Tietokannan (MySQL/MariaDB)</li>
+    <li>REST APIn (Node.js/Express.js)</li>
+    <li>Pankkiautomaattisovelluksen (Qt työpöytäsovellus, jossa käytetään Qt Network moduulia)</li>
+  </ul>
+  <p><strong>Huom!</strong> Edellä mainitut kuuluvat kurssin sisältöön ja arviointi perustuu niiden osaamiseen, joten millään muilla tekniikoilla noita ei saa korvata.</p>
+
+  <h2>Sovelluksen toiminta</h2>
+  <ul>
+    <li>Qt-sovellus kommunikoi REST APIn kanssa http-protokollan avulla.</li>
+    <li>REST API hoitaa kommunikoinnin tietokannan kanssa.</li>
+  </ul>
+
+  <h2>ARVIOINTI</h2>
+  <p>Arviointi perustuu tähän dokumenttiin. Mikäli ristiriitaista tietoa esiintyy, niin tämä dokumentti on se, jota noudatetaan.</p>
+  <p><strong>Huom!</strong> Monimuotoryhmissä ei käytetä kortinlukijaa, vaan aloitusikkunasta avataan Tunnuksen syöttökäyttöliittymä painiketta painamalla, jossa annetaan PIN-koodin lisäksi kortin-id.</p>
+
+  <h3>Vähimmäisvaatimukset sovellukselle (arvosana 1)</h3>
+  <ul>
+    <li>Debit kortti toteutettava (ei luottoa, saldo ei saa mennä miinukselle)</li>
+    <li>Qt-sovelluksen aloituskäyttöliittymä</li>
+    <li>Kortinlukijan käyttö ja PIN-koodin syöttö</li>
+    <li>Oikealla PIN-koodilla pääkäyttöliittymä, väärällä uudelleenkysely</li>
+    <li>Saldo tarkastelu</li>
+    <li>Rahan nosto: 20, 40, 50 tai 100 €</li>
+  </ul>
+
+  <h3>Vähimmäisvaatimukset (arvosana 2)</h3>
+  <ul>
+    <li>PIN-koodin syöttöraja 10 sekuntia</li>
+    <li>REST API kattaa kaikki automaatin toiminnot</li>
+  </ul>
+
+  <h3>Hyvän arvosanan vaatimukset (arvosana 3)</h3>
+  <ul>
+    <li>Kortti voi olla joko debit tai credit</li>
+    <li>Credit-kortilla nosto luottorajan puitteissa</li>
+    <li>Vapaavalintaisen summan nosto</li>
+    <li>10 viimeisintä tapahtumaa nähtävillä</li>
+    <li>3 väärää PIN-koodia lukitsee kortin (ei tallenneta tietokantaan)</li>
+  </ul>
+
+  <h3>Hyvän arvosanan vaatimukset (arvosana 4)</h3>
+  <ul>
+    <li>Korttilukitus tallennetaan tietokantaan</li>
+    <li>30 sekunnin inaktiivisuus palauttaa alkutilaan</li>
+    <li>Tilitapahtumien selaus (eteen/taakse, 10 kerrallaan)</li>
+  </ul>
+
+  <h3>Kiitettävän arvosanan vaatimukset (arvosana 5)</h3>
+  <ul>
+    <li>Kaksoiskortit (debit + credit samassa)</li>
+    <li>Kirjautuessa valinta: debit vai credit (vain jos molemmat ovat käytössä)</li>
+    <li>Tilakaavio luotu</li>
+    <li>Lisäominaisuus sovittava ohjaajan kanssa</li>
+  </ul>
+
+  <h4>Arvosanaa alentavia seikkoja</h4>
+  <ul>
+    <li>Dokumentoinnin puutteet</li>
+    <li>MVC-mallin noudattamatta jättäminen backendissä</li>
+  </ul>
+
+  <h2>Vaatimukset tietokannalle</h2>
+  <h3>Ilman credit-kortti ominaisuutta</h3>
+  <ul>
+    <li>Useita tilejä asiakkaalla</li>
+    <li>Yhdellä tilillä yksi omistaja</li>
+    <li>Asiakkaalla voi olla tili ilman korttia</li>
+    <li>Useita kortteja asiakkaalla, mutta yksi kortti &rarr; yksi tili</li>
+    <li>Asiakastiedoissa: etunimi, sukunimi, osoite</li>
+    <li>PIN-koodi hashattuna (bcrypt)</li>
+  </ul>
+
+  <h3>Kun toteutetaan credit-kortti ominaisuus</h3>
+  <ul>
+    <li>Credit-korteilla pitää olla luottoraja</li>
+  </ul>
+
+  <h3>Kun toteutetaan kaksoiskortti</h3>
+  <ul>
+    <li>Kortilla pääsy useaan tiliin (debit ja credit)</li>
+  </ul>
+
+  <h3>Lisäominaisuuksia tietokannalle</h3>
+  <ul>
+    <li>Asiakkaalla käyttöoikeus toisen omistajan tilille</li>
+  </ul>
+
+  <h2>Opiskelijan arviointi</h2>
+  <ul>
+    <li>Sovelluksen arvosana</li>
+    <li>Vertais- ja itsearviointi</li>
+    <li>Ohjaajien näkemys</li>
+    <li>Githubin informaatio</li>
+  </ul>
+
+  <h3>Arvioinnin kohteet</h3>
+  <ul>
+    <li>Ryhmätyöskentely</li>
+    <li>Itsenäinen työ</li>
+    <li>Projektisitoutuminen</li>
+    <li>Qt-ohjelmointi</li>
+    <li>REST API -ohjelmointi</li>
+    <li>Tehtävien vaikeustaso</li>
+    <li>Gitin käyttö</li>
+  </ul>
+
+  <h2>Lisäominaisuusideoita</h2>
+  <ul>
+    <li><strong>Kuvan lataus ja näyttäminen</strong> - <a href="https://www.youtube.com/watch?v=DlKRlZTNYl8">videoesittely</a></li>
+    <li><strong>Swagger dokumentointi</strong> - <a href="https://www.youtube.com/watch?v=M6Fj5Y2K24w">video</a>, <a href="https://www.npmjs.com/package/swagger-ui-express">swagger-ui-express</a></li>
+    <li><strong>Logitus</strong> - esim. morgan-moduuli</li>
+    <li><strong>WebSocket</strong> - <a href="https://youtu.be/QGnv7s0JIIo">video</a></li>
+    <li><strong>Docker</strong> - <a href="https://youtu.be/vUuA00D4wrY">esittely 1</a>, <a href="https://youtu.be/zxcbaB6Qq0M">esittely 2</a></li>
+    <li><strong>Testaus backendissä</strong> (jest, supertest) - <a href="https://youtu.be/HEZufcp2umI">video</a></li>
+  </ul>
