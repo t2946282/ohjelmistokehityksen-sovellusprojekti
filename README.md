@@ -441,7 +441,7 @@ MySQL (ei tietoa laadusta):
     <li>Gitin käyttö</li>
   </ul>
 
-<section>
+<h2>Lisäominaisuusideoita</h2>
   <h2>Kuvan lataus ja näyttäminen</h2>
   <p>- Kuvan lataaminen backendiin ja näyttäminen Qt-sovelluksessa. Tämä on kokonaisen arvosanan arvoinen.</p>
   <p>Idean esittelyvideo: <a href="https://www.youtube.com/watch?v=DlKRlZTNYl8" target="_blank">https://www.youtube.com/watch?v=DlKRlZTNYl8</a></p>
