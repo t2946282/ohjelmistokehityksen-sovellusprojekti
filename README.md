@@ -324,9 +324,10 @@ MySQL (ei tietoa laadusta):
 - Learning SQL, 3rd Edition: [https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
 - Fundamentals of Data Engineering: [https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 - MySQL 5: [https://learning.oreilly.com/course/mysql-5/9781926873961/](https://learning.oreilly.com/course/mysql-5/9781926873961/)
-
+<hr>
 <span id="pr_ohje"></span>
-  <h1>Projektityön aihe on pankkiautomaatti</h1>
+  <h1>Projektityön kuvaus</h1>
+  <p>Työn aihe on pankkiautomaatti</p>
 
   <h2>Ohjelmiston rakenne on seuraava</h2>
     <img src="project.png" alt="">
