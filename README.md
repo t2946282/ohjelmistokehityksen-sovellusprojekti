@@ -326,6 +326,7 @@ MySQL (ei tietoa laadusta):
 - MySQL 5: [https://learning.oreilly.com/course/mysql-5/9781926873961/](https://learning.oreilly.com/course/mysql-5/9781926873961/)
 
 ___
+
  <span id="pr_ohje"></span>
  
 # Projektityön kuvaus
