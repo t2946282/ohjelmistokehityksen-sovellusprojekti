@@ -327,6 +327,7 @@ MySQL (ei tietoa laadusta):
 
 ___
  <span id="pr_ohje"></span>
+ 
  # Projektityön kuvaus
 
 Työn aihe on pankkiautomaatti
