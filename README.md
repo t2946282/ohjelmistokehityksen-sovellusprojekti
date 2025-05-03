@@ -1,6 +1,6 @@
 # Ohjelmistokehityksen sovellusprojekti
 
-- Opiskelijoiden tehtävä on suunnitella ja toteuttaa pankkiautomaattijärjestelmä: [**Yleisohje ja arviointi**](#pr_ohje)
+- Opiskelijoiden tehtävä on suunnitella ja toteuttaa pankkiautomaattijärjestelmä: [**Yleisohje ja arviointi**](#Projektityön kuvaus)
 
 - 4 opiskelijan ryhmät määritellään [Excel-dokumentissa](<https://unioulu-my.sharepoint.com/:x:/g/personal/tk_oamk_fi/ETmu1ZUhPdpLuY_QVFEC5gkBYR6tp3Ftdc4HKKpviBAkoA?e=dDAaA4>)
 
@@ -324,8 +324,9 @@ MySQL (ei tietoa laadusta):
 - Learning SQL, 3rd Edition: [https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
 - Fundamentals of Data Engineering: [https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 - MySQL 5: [https://learning.oreilly.com/course/mysql-5/9781926873961/](https://learning.oreilly.com/course/mysql-5/9781926873961/)
-<hr>
-<span id="pr_ohje"></span>
+
+___
+ 
  # Projektityön kuvaus
 
 Työn aihe on pankkiautomaatti
