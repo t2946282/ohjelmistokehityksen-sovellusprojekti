@@ -76,12 +76,6 @@ Lisätehtäviä parempaan arvosanaan:
 
 - Arvosanaan 5 vaaditaan lisäominaisuuksia (arvosanaa korottavat lisätehtävät on määritelty tarkemmin kohdassa "Yleisohje ja arviointi"). Katso [**Yleisohje ja arviointi**](#pr_ohje)
 
-Extratehtäviä (erityisesti monimuoto-opiskelijat, joilla on jo Linux-alkeiskurssi käytynä). **Nämä eivät kuitenkaan korota arvosanaa**:
-
-- API laitetaan reverse proxyn taakse. Esimerkiksi [Apache](https://httpd.apache.org/), [Nginx](https://nginx.org), [Caddy](https://caddyserver.com/) tai [frp](https://github.com/fatedier/frp)
-- Koko backend VPS-linuxilla (pilvipalvelusta kuten CSC:n Pouta, Digital Ocean tms.) tai jossain PaaS-alustassa suoraan tai konttina (esim. Render.com, Fly.io)
-- Web-palvelin käännettyjen softien lataamiseen (releaset menemään automaattisesti tänne. Github tai vaikka em. VPS-Linux)
-- CI/CD Github Actioneilla
 
 ### Qt/Express-materiaalit (Pekka Alaluukas)
 
@@ -98,17 +92,6 @@ Extratehtäviä (erityisesti monimuoto-opiskelijat, joilla on jo Linux-alkeiskur
 
 - Pekan luennoilla rakennetaan esimerkkisovellus, jonka UML-kaaviot ja muut suunnitteluvaiheet löytyvät GiHubista [https://github.com/alaluuk/peppiExample](https://github.com/alaluuk/peppiExample)
 
-### Teemaluentoja: AI, IaC, CI/CD, reverse proxy, ohjelmistiolisensseistä (Teemu Korpela)
-
-- [Keskiviikko 7.1.2026 klo 17:00 - Tiedonhausta, IT-uutisista, alan seuraamisesta ja Kanban-taulut](https://youtube.com/live/laNmAles5go)
-- Torstai 15.1.2026 klo 17:00 - Verkkopalveluista, IaC, CI/CD, rajapinnoista (API), Reverse proxyt
-- Torstai 22.1.2026 klo 17:00 - Ohjelmistolisensseistä
-- Torstai 29.1.2026 klo 17:00 - AI-(vibe)koodaus
-
-Vanhoja, linkattuna tähän vain historiallisista syistä (tälle toteutukselle tehdään uudet:
-- [13.1.2025 Teemaluento: IaC, CI/CD, Reverse proxy](https://www.youtube.com/live/1Iiflc1Rj7o)
-- [20.1.2025 Teemaluento: Palveluiden bind ja projektien markdownista](https://www.youtube.com/live/Le6hPRxJn9g)
-- [21.4.2021 Teemaluento: Vähän ohjelmistolisensseistä](https://www.youtube.com/watch?v=57m6hktjfeg&t=225s)
 
 ### Kaaviot dokumentointiin
 
@@ -132,8 +115,6 @@ Katso näistä Teams-kanavan dokumenteista mallia teknisen määrittelydokumenti
 - Public license selector:  [https://ufal.github.io/public-license-selector/](https://ufal.github.io/public-license-selector/)
 
 ## Noin 10-15 min viikkopalavereiden yleinen agenda
-
-Viikkopalaverit pidetään ryhmän alikanavalla MS Teamssilla, niin ei tarvitse tehdä erillisiä kutsuja vaan voi liittyä suoraan siellä.
 
 - Pääsääntöisesti kaikkien pitää olla paikalla
 - Yleistä keskustelua, että miten projekti on edennyt
@@ -169,7 +150,6 @@ Työn aihe on pankkiautomaatti
 
 Arviointi perustuu tähän dokumenttiin. Mikäli ristiriitaista tietoa esiintyy, niin tämä dokumentti on se, jota noudatetaan.
 
-**Huom!** Monimuotoryhmissä ei käytetä kortinlukijaa, vaan aloitusikkunasta avataan PIN-koodinkyselykäyttöliittymä painiketta painamalla, jossa annetaan PIN-koodin lisäksi kortin-id.
 
 ### Vähimmäisvaatimukset sovellukselle (arvosana 1)
 
