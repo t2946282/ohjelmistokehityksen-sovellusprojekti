@@ -31,7 +31,6 @@
 - Readme.md -tiedosto Github-repositorylle (etusivu)
 - MS Teams viestintään
 - Viikkopalaverit
-- Kanban-taulun luonti, kokonaisuuksien pilkkominen tehtäviksi ja taulun ylläpito projektin seurantaan
 - Loppuesitykset videona ja englanninkielinen posteri
 
 Avainsanoja: UML/määrittelyt, Qt, API, MySQL, UI/UX
@@ -109,10 +108,6 @@ Katso näistä Teams-kanavan dokumenteista mallia teknisen määrittelydokumenti
 - UML-mallinnuksen [kaavioesimerkit](<https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit/UML-mallinnus?csf=1&web=1&e=0UrXUt>)
 - Yleinen [esimerkkikuva järjestelmäarkkitehtuurista](./dl/arkkitehtuurikuva.png)
 
-### Softalisensseistä
-
-- Choose a license: [https://choosealicense.com/](https://choosealicense.com/)
-- Public license selector:  [https://ufal.github.io/public-license-selector/](https://ufal.github.io/public-license-selector/)
 
 ## Noin 10-15 min viikkopalavereiden yleinen agenda
 
@@ -197,7 +192,6 @@ Nämä ovat ohjelmistokokonaisuutta projektihallinnallisesta näkökulmasta kosk
 |                            | 1  | 2  | 3  | 4  | 5  |
 |----------------------------|----|----|----|----|----|
 | Versionhallinnan käyttö    | x  | x  | x  | x  | x  |
-| Kanban                     | x  | x  | x  | x  | x  |
 | Viikkopalaverit            | x  | x  | x  | x  | x  |
 | Tekninen määrittelydokum.  | x  | x  | x  | x  | x  |
 | Projektisuunnitelma        | x  | x  | x  | x  | x  |
@@ -356,42 +350,34 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 - Aloitusinfo
 - Luodaan ja numeroidaan neljän opiskelijan ryhmät
 - Jokainen opiskelija luo tunnuksen itselleen sivustolla
-  [https://peatutor.com/project_app/register/tvt25kmo](https://peatutor.com/project_app/register/tvt25kmo).
+  [https://peatutor.com/project_app/register/tvt25spl](https://peatutor.com/project_app/register/tvt25spl) TAI [https://peatutor.com/project_app/register/tvt25spo](https://peatutor.com/project_app/register/tvt25spo).
   (Luotuasi tunnuksen, saat sähköpostin, jossa on tunnuksesi ja salasanasi. Pidä ne tallessa.)
 - Tutustukaa arviointikriteereihin ja päättäkää mihin arvosanaan pyritään
 - Tarkista että olet kurssin Teams-kanavalla (pyydä opettajalta pääsy jos et ole). Käytä students.oamk.fi-sähköpostiosoitetta kun kirjaudut Teamssiin
 - Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden YKSITYISEN alikanavan nimeltä:
   - Ryhmä-xx ryhmä 1:n kanava on nimeltään Ryhmä-01 ryhmä 2:n kanava on nimeltään on Ryhmä-02, jne. Katso [tästä kuvasta yleinen  nimeämismalli](./dl/teams_ryhmat.png)
-- Kun ryhmän yksityinen Teams-kanava on luotu, lisää kanavalle ryhmän muut jäsenet. Lisää myös ohjaavat opettajat kanavan omistajaksi: Teemu Korpela ja Pekka Alaluukas
+- Kun ryhmän yksityinen Teams-kanava on luotu, lisää kanavalle ryhmän muut jäsenet. Lisää myös ohjaavat opettajat kanavan omistajaksi: Pekka Alaluukas, Jukka Jauhiainen, Kari Jyrkkä, Teemu Leppänen, Pasi Mustonen
 - Github käyttöön (Pekan tekemän organisaation alle): [Pekan ohje](#git_ohje)
 - Ryhmän jäsenet sopii alustavasti kuka tekee mitäkin toiminnallisuuksia (mutta ei niin, että vain yksi tekee koko Qt-työpöytäsovelluksen, että vain yksi tekee koko tietokannan jne.)
 - Ryhmä sopii käytetäänko Qt sovelluksessa build järjestelmänä **qmake**:a vai **cmake**:a (on parasta että koko ryhmä käyttää samaa)
 - Aloittakaa tekemään projektidokumenttia (pitää tehdä yhdessä). Pohja löytyy Teamsista. Tallentakaa oma versio ryhmän github-repositoryyn documents-hakemistoon.
 - Aloittakaa tekemään teknistä määrittelydokumenttia (pitää tehdä yhdessä). Pohja löytyy Teamsista. Tallentakaa oma versio ryhmän github-repositoryyn documents-hakemistoon. 
 - Katsokaa yhdessä valmiiksi viikon 2+ tavoitteet
-- Kanban: Githubissa Kanban-taulu käyttöön
-  - Tehkää oma projekti ja repository Kanbania varten Githubissa
-  - Linkittäkää Kanban-taulu ryhmän omalle Teams-alikanavalle omaksi välilehdeksi
-  - Käytäkää Githubin Kanban-työkalun valmista sarakemuotoista pohjaa
-  - Ei ole välttämättä huono ajatus tehdä frontendistä (Qt-applikaatio) ja backendistä (API, tietokanta, mahdollinen palvelin) kokonaan erilliset Kanban-taulun välilehdet Githubin Kanbanilla
-  - Kanbanissa pitää olla vähintään nämä sarakkeet tai ainakin mukaillen (merkinnät ja taulu saa olla myös suomeksi): Requested/backlog, Design/analysis, Under development, Review/testing, Deployment, Done
-  - Edelliset sarakkeet kahteen kertaan, jos frontille ja backendille erilliset välilehdet
-  - Pilkkokaa tekemisiä ja toiminnallisuuksia Kanban-tauluun (ja muistakaa lisätä/päivittää taulua jatkuvasti)
-  - Esimerkkejä Kanban-tauluista: [https://businessmap.io/kanban-resources/kanban-software/kanban-board-examples](https://businessmap.io/kanban-resources/kanban-software/kanban-board-examples)
-  
-- Viikon luennot:
+
+- Viikon luennot (MUOKATTAVA):
   - Aloitusinfo kurssin tekemiseksi
-  - Git perusteet (harjoitus)
+  - Git perusteet 
   - Asiaa Qt:stä, MySQL:stä, REST API:sta ja C++:sta
   - Ohjelmistotuotanto ja UML-mallinnus osa 1: Järjestelmäarkkitehtuuri, Käyttötapaukset, Tietosisältö
 - Tämän viikon aikana pitää olla tehtynä:
   - Projektisuunnitelma alulle
   - Tekninen määrittely-dokumentti alulle
   - Github repository käyttöön
-  - Kanban-taulu laitettu alulle
   - Yksityinen Teams-kanava luotu kurssin Teams-kanavan alle. Ryhmän jäsenet ja opettajat lisätty privaattikanavan omistajiksi
   - Priorisoikaa backend (tietokanta ja API), jotta käyttöliittymän voi tehdä toimimaan suoraan sitä vasten
-  - Tietokannan ER-kaavio pitää olla ohjeiden mukaisesti tehtynä ja ohjaajan (Pekka) hyväksymä. Laittakaa ER-kaavio Teamsin Files osioon ja postatkaa viesti "@Pekka Alaluukas ER-kaavio valmis".
+  - Tietokannan ER-kaavio pitää olla ohjeiden mukaisesti tehtynä ja ohjaajan (SPL:Jukka, SPO:Pekka) hyväksymä. Laittakaa ER-kaavio Teamsin Files osioon ja postatkaa viesti (ryhmästä riippuen)
+    - "@Jukka Jauhiainen ER-kaavio valmis".
+    - "@Pekka Alaluukas ER-kaavio valmis".
   - Tietokannan, rajapinnan ja käyttöliittymän suunnittelua ja tekemistä
   - Qt-sovellus alulle
 
@@ -403,16 +389,15 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 # Viikko 2
 
 - Viikkopalaveri opettajan kanssa
+  - Versiohallinnan esittely (Tarkistetaan että repository on alustettu)
   - Esitelkää mitä dokumentteihin (projektisuunnitelma, tekninen määrittely) on kirjattu tähän mennessä
 - Luento:
   - Projektin suunnitteluvaihe ja UML-mallinnus osa 2: Komponenttikaavio, tilakaavio
-  - Lisämateriaali: luentotallenne (13.1.2025) Youtubessa: [Teemaluento: IaC, CI/CD, Reverse proxy](https://www.youtube.com/live/1Iiflc1Rj7o)
 - Sovelluksen tekemistä
 - Tämän viikon aikana pitää olla tehtynä:
   - Ohjelmistokehityksen perusteet ja UML-mallinnus videot katsottuna: [Soittolista luentotallenteista](https://www.youtube.com/playlist?list=PLWl0bS7jZq99iOUNmMyuT9EgU6YfxP_en)
   - Projektisuunnitelma valmis.
   - Tekninen määrittely osin tehtynä: Järjestelmäarkkitehtuuri, Käyttötapaukset, Tietosisältö 
-  - CRUD-operaatioista demo
 
 # Viikko 3
 
@@ -420,12 +405,8 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
   - Projektisuunnitelma kokonaan valmis
   - Tekninen määrittely: Järjestelmäarkkitehtuuri, Käyttötapaukset, Tietosisältö valmiina
   - Esitellään dokumentit
-  - Versiohallinnan esittely
-- Luento:
-  - (Extraoppimista) Ohjelmistolisensseistä: [Luentotallenne Youtubessa vuodelta 2021](https://youtu.be/57m6hktjfeg?t=225)
-    - Videolla käytetyt luentokalvot [täällä](./dl/softwarelicensing.pdf)
-  - Opiskelijaprojektien portfoliosta Githubiin, Markdown-kieli ja readme.md-tiedostosta projektille
-  - Luentotallenne (20.1.2025) Youtubessa: [Teemaluento: Palveluiden bind ja projektien markdownista](https://youtube.com/live/Le6hPRxJn9g)
+  - CRUD-operaatioista demo (Pitää olla jotain endpointteja backendissä)
+
 - Kirjoita Github-projektille kuvaus markdownilla (readme.md-tiedosto). Github osaa prosessoida markdown-kieltä suoraan readme.md:stä HTML:ksi
   - Muista päivittää omaa projektikuvausta Githubissa (readme.md) myös myöhemmin!
   - Esimerkkejä [hyvistä readme-projektitiedostoista](https://github.com/matiassingers/awesome-readme)
@@ -440,23 +421,14 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 
 - Viikkopalaveri
   - Versiohallinnan esittely
-- Katso hetki joitakin [livenä koodaavia striimaajia Twitchistä](https://www.twitch.tv/directory/game/Software%20and%20Game%20Development) ja koita selvittää:
-  - Mikä/mitkä kielet käytössä? Jotain tiettyjä frameworkeja?
-  - Mikä IDE/editori?
-  - Näkyykö videolla jokin versionhallinta, projektityökalu jne. käytössä?
-- Katso Matti Rädyn vierailijaluennon tallenne teemasta [Miten Unityllä tehdään softaa \(2021\)](https://www.youtube.com/watch?v=7tfpOtJjmbQ). Video on osa tätä vierailevien asiantuntijoiden luentosarjaa: [https://tl.oamk.fi/asiantuntijavieraat/](https://tl.oamk.fi/asiantuntijavieraat/)
 - Sovelluksen tekemistä
 - Teknisen määrittelydokumentin tekemistä
-- Tämän viikon aikana pitää olla tehtynä:
-  - Twitch-striimien vilkaisu
-  - Tekninen määrittelydokumentti eteenpäin
-  - Sovelluksen tekemistä
 
 # Viikko 5
 
 - Viikkopalaveri
   - Versiohallinnan esittely
-- Katso Jari Ahon vierailijaluennon tallenne teemasta [Ohjelmoijana pienessä ohjelmistoyrityksessä ja legacy-koodista \(2021\)](https://www.youtube.com/watch?v=YRYnhKOBl9k). Video on osa tätä vierailevien asiantuntijoiden luentosarjaa: [https://tl.oamk.fi/asiantuntijavieraat/](https://tl.oamk.fi/asiantuntijavieraat/)
+  - Nyt pitää olla jo Qt-sovelluksessa jotain omaa koodia
 - Sovelluksen tekemistä
 - Tämän viikon aikana pitää olla tehtynä:
   - Tekninen määrittelydokumentti kokonaan valmiiksi 
@@ -468,8 +440,7 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 - Viikkopalaveri
   - Esitellään valmis tekninen määrittelydokumentti
   - Versiohallinnan esittely
-- Katso Miika Hämeenahon  vierailijaluennon tallenne teemasta [Mobiilikehitys \(2022\)](https://www.youtube.com/watch?v=aMDq1uOiSnU). Video on osa tätä vierailevien asiantuntijoiden luentosarjaa: [https://tl.oamk.fi/asiantuntijavieraat/](https://tl.oamk.fi/asiantuntijavieraat/)
-- Sovelluksen tekemistä
+
 - Tämän viikon aikana pitää olla tehtynä:
   - Projektille kirjoitettu markdown-muotoinen Readme-tiedosto Githubiin
   - Sovelluksen tekemistä
@@ -478,7 +449,6 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 
 - Viikkopalaveri
   - Versiohallinnan esittely
-- Katso Timo Konun vierailijaluennon tallenne teemasta [Ratkaisukeskeisen ohjelmistoyrityksen johtaminen \(2022\)](https://www.youtube.com/watch?v=bkBQ0z9ZYGU). Video on osa tätä vierailevien asiantuntijoiden luentosarjaa: [https://tl.oamk.fi/asiantuntijavieraat/](https://tl.oamk.fi/asiantuntijavieraat/)
 - Sovelluksen tekemistä
 - Demovideon valmistelu
 - Ryhmä tekee yhdessä posterin englanniksi. Posteripohja löytyy Teamssista
@@ -503,7 +473,6 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
     - Mikä oli hyvää, mikä oli huonoa
     - Esitä dokumentin sisältö videon alussa
     - Kaikkien ei välttämättä tarvitse puhua videolla (mutta toki saa)
-    - Esittele mahdollinen Kanban
     - Näytä posteri videon lopuksi
     - Lisää PowerPoint- tai PDF-dokumentti Github-repositoryyn
   - Esittele pankkiautomaattiprojekti
