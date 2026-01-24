@@ -541,9 +541,8 @@ Luo tiedosto projektikansion `groupx` juureen ja kirjoita siihen seuraavat rivit
 ```gitignore
 backend/node_modules/
 bank-automat/build/
+bank-automat/.qtcreator/
 bank-automat/*.user 
-
-.qtcreator/
 ```
 
 ---
