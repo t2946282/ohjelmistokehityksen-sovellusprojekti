@@ -2,6 +2,7 @@
 
 - Opiskelijoiden tehtävä on suunnitella ja toteuttaa pankkiautomaattijärjestelmä: [**Yleisohje ja arviointi**](#pr_ohje)
 - 4 opiskelijan ryhmät määritellään [Excel-dokumentissa](<https://unioulu-my.sharepoint.com/:x:/g/personal/alaluuk_oamk_fi/IQBgHAzlTg22TYgV7PycCmFeAbtyxjCUqFPvKd9RjO1HQjc?e=hFPzhm>)
+- [**Projektin alustaminen**](#initialize)
 
 ### Oikopolut eri viikoille
 
@@ -484,6 +485,7 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
   - Posterin esittely
  
 
+ <span id="initialize"></span>
 # Projektin alustaminen
 
 📺 Voit katsoa ohjevideon osoitteesta:  
