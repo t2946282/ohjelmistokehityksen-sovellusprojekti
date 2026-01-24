@@ -350,8 +350,10 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 - Aloitusinfo
 - Luodaan ja numeroidaan neljän opiskelijan ryhmät
 - Jokainen opiskelija luo tunnuksen itselleen sivustolla
-  [https://peatutor.com/project_app/register/tvt25spl](https://peatutor.com/project_app/register/tvt25spl) TAI [https://peatutor.com/project_app/register/tvt25spo](https://peatutor.com/project_app/register/tvt25spo).
-  (Luotuasi tunnuksen, saat sähköpostin, jossa on tunnuksesi ja salasanasi. Pidä ne tallessa.)
+  [https://peatutor.com/project_app/register/tvt25spl](https://peatutor.com/project_app/register/tvt25spl) TAI [https://peatutor.com/project_app/register/tvt25spo](https://peatutor.com/project_app/register/tvt25spo)
+    - Voit keksiä minkä hyvänsä tunnuksen
+    - Rekisteröityä voi vain oamk.fi ja oulu.fi sähköposteilla
+    - Luotuasi tunnuksen, saat sähköpostin, jossa on tunnuksesi ja salasanasi. Pidä ne tallessa.
 - Tutustukaa arviointikriteereihin ja päättäkää mihin arvosanaan pyritään
 - Tarkista että olet kurssin Teams-kanavalla (pyydä opettajalta pääsy jos et ole). Käytä students.oamk.fi-sähköpostiosoitetta kun kirjaudut Teamssiin
 - Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden YKSITYISEN alikanavan nimeltä:
