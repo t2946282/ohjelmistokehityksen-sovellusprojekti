@@ -12,7 +12,7 @@ Kaikki luennot pidetään tietoliikennelabrassa, mutta niihin voi osallistua my�
     <tr><th>Aika</th><th>Sisältö</th></tr>
   </thead>
   <tbody>
-    <tr><td>Ma 9.3 klo 9–15</td><td>klo 9–11 Aloitusinfo<br>klo 12–15: Pekka (Git ja repon alustus)</td></tr>
+    <tr><td>Ma 9.3 klo 9–15</td><td>klo 9–11 Aloitusinfo<br>klo 12–15 Pekka (Git ja repon alustus)</td></tr>
     <tr><td>Ti 10.3 klo 9–15</td><td>klo 9–11 Pekka (Tietokannan suunnittelu + Backend)<br>klo 12:30–15:30 Kari (Qt)</td></tr>
     <tr><td>Ke 11.3 klo 9–15</td><td>klo 9-12 Pekka (Qt HTTP) <br> Ryhmätyötä</td></tr>
     <tr><td>To 12.3 klo 10–15</td><td>Teemu (Ohjelmistokehitys) + ohjausta</td></tr>
@@ -27,7 +27,7 @@ Kaikki luennot pidetään tietoliikennelabrassa, mutta niihin voi osallistua my�
     <tr><th>Aika</th><th>Sisältö</th></tr>
   </thead>
   <tbody>
-    <tr><td>Ma 16.3 klo 13–16</td><td>Kari (Qt)</td></tr>
+    <tr><td>Ma 16.3 klo 9–16</td><td>klo 9-11 Ryhmätyötä<br>klo 13-16 Kari (Qt)</td></tr>
     <tr><td>Ti 17.3 klo 10–14</td><td>Teemu (Ohjelmistokehitys) + ohjausta</td></tr>
     <tr><td>Ke 18.3 klo 9–15</td><td>Ryhmätyötä (ER-kaavio valmis)</td></tr>
     <tr><td>To 19.3 klo 9–15</td><td>Ryhmätyötä (1. palaverit: tarkistetaan GitHub)</td></tr>
