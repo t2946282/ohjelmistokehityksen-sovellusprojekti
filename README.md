@@ -4,6 +4,27 @@
 - 4 opiskelijan ryhmät määritellään [Excel-dokumentissa](<https://unioulu-my.sharepoint.com/:x:/g/personal/alaluuk_oamk_fi/IQBgHAzlTg22TYgV7PycCmFeAbtyxjCUqFPvKd9RjO1HQjc?e=hFPzhm>)
 - [**Projektin alustaminen**](#initialize)
 
+### Kahden ensimmäisen viikon ohjelma
+
+Kaikki luennot pidetään tietoliikennelabrassa, mutta niihin voi osallistua myös etäyhteydellä kunkin ohjaajan ilmoittaman linkin kautta.
+| Aika              | Sisältö |
+|-------------------|---------|
+| Ma 9.3 klo 9–15   | klo 9-11 Aloitusinfo<br>klo 12–15: Pekka (Git ja repon alustus) |
+| Ti 10.3 klo 9–15  | klo 9-11 Pekka (Tietokannan suunnittelu + Backend)<br>klo 12:30–15:30 Kari (Qt) |
+| Ke 11.3 klo 9–12  | Pekka (Qt HTTP) |
+| To 12.3 klo 10–15 | Teemu (Ohjelmistokehitys) + ohjausta |
+| Pe 13.3 klo 9–15  | Ryhmätyötä (ER-kaavio palautetaan) |
+
+| Aika              | Sisältö |
+|-------------------|---------|
+| Ma 16.3 klo 13–16 | Kari (Qt) |
+| Ti 17.3 klo 10–14 | Teemu (Ohjelmistokehitys) + ohjausta |
+| Ke 18.3 klo 9–15  | Ryhmätyötä (ER-kaavio valmis) |
+| To 19.3 klo 9–15  | Ryhmätyötä (1. palaverit: tarkistetaan GitHub) |
+| Pe 20.3 klo 9–15  | Ryhmätyötä |
+
+Kolmannesta viikosta alkaen ryhmät työskentelevät joka päivä klo 9-15, mieluiten kampuksella.
+
 ### Oikopolut eri viikoille
 
 - [Viikko 1](./#viikko-1)
