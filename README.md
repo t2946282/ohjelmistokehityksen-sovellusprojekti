@@ -14,7 +14,7 @@ Kaikki luennot pidetään tietoliikennelabrassa, mutta niihin voi osallistua my�
   <tbody>
     <tr><td>Ma 9.3 klo 9–15</td><td>klo 9–11 Aloitusinfo<br>klo 12–15: Pekka (Git ja repon alustus)</td></tr>
     <tr><td>Ti 10.3 klo 9–15</td><td>klo 9–11 Pekka (Tietokannan suunnittelu + Backend)<br>klo 12:30–15:30 Kari (Qt)</td></tr>
-    <tr><td>Ke 11.3 klo 9–12</td><td>Pekka (Qt HTTP)</td></tr>
+    <tr><td>Ke 11.3 klo 9–15</td><td>klo 9-12 Pekka (Qt HTTP) <br> Ryhmätyötä</td></tr>
     <tr><td>To 12.3 klo 10–15</td><td>Teemu (Ohjelmistokehitys) + ohjausta</td></tr>
     <tr><td>Pe 13.3 klo 9–15</td><td>Ryhmätyötä (ER-kaavio palautetaan)</td></tr>
   </tbody>
