@@ -391,9 +391,9 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
     - Luotuasi tunnuksen, saat sähköpostin, jossa on tunnuksesi ja salasanasi. Pidä ne tallessa.
 - Tutustukaa arviointikriteereihin ja päättäkää mihin arvosanaan pyritään
 - Tarkista että olet kurssin Teams-kanavalla (pyydä opettajalta pääsy jos et ole). Käytä students.oamk.fi-sähköpostiosoitetta kun kirjaudut Teamssiin
-- Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden YKSITYISEN alikanavan nimeltä:
-  - Ryhmä-xx ryhmä 1:n kanava on nimeltään Ryhmä-01 ryhmä 2:n kanava on nimeltään on Ryhmä-02, jne. Katso [tästä kuvasta yleinen  nimeämismalli](./dl/teams_ryhmat.png)
-- Kun ryhmän yksityinen Teams-kanava on luotu, lisää kanavalle ryhmän muut jäsenet. Lisää myös ohjaavat opettajat kanavan omistajaksi: Pekka Alaluukas, Jukka Jauhiainen, Kari Jyrkkä, Teemu Leppänen, Ville Majava, Pasi Mustonen
+- Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden JULKISEN alikanavan nimeltä:
+  - Ryhmä-Lxx tai Ryhmä-Oxx SPL:n ryhmä 1:n kanava on nimeltään Ryhmä-L1 ja SPO:n ryhmä 1:n kanava on nimeltään on Ryhmä-O1, jne.
+- Kun ryhmän Teams-kanava on luotu, lisää kanavalle ryhmän muut jäsenet. Lisää myös ohjaavat opettajat kanavan omistajaksi: Pekka Alaluukas, Jukka Jauhiainen, Kari Jyrkkä, Teemu Leppänen, Pasi Mustonen
 - Github käyttöön (Pekan tekemän organisaation alle): [Pekan ohje](#initialize)
 - Ryhmän jäsenet sopii alustavasti kuka tekee mitäkin toiminnallisuuksia (mutta ei niin, että vain yksi tekee koko Qt-työpöytäsovelluksen, että vain yksi tekee koko tietokannan jne.)
 - Ryhmä sopii käytetäänko Qt sovelluksessa build järjestelmänä **qmake**:a vai **cmake**:a (on parasta että koko ryhmä käyttää samaa)
@@ -401,23 +401,15 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 - Aloittakaa tekemään teknistä määrittelydokumenttia (pitää tehdä yhdessä). Pohja löytyy Teamsista. Tallentakaa oma versio ryhmän github-repositoryyn documents-hakemistoon. 
 - Katsokaa yhdessä valmiiksi viikon 2+ tavoitteet
 
-- Viikon luennot (MUOKATTAVA):
-  - Aloitusinfo kurssin tekemiseksi
-  - Git perusteet 
-  - Asiaa Qt:stä, MySQL:stä, REST API:sta ja C++:sta
-  - Ohjelmistotuotanto ja UML-mallinnus osa 1: Järjestelmäarkkitehtuuri, Käyttötapaukset, Tietosisältö
 - Tämän viikon aikana pitää olla tehtynä:
   - Projektisuunnitelma alulle
   - Tekninen määrittely-dokumentti alulle
   - Github repository käyttöön
-  - Yksityinen Teams-kanava luotu kurssin Teams-kanavan alle. Ryhmän jäsenet ja opettajat lisätty privaattikanavan omistajiksi
+  - Ryhmän Teams-kanava luotu kurssin Teams-kanavan alle. Ryhmän jäsenet ja opettajat lisätty privaattikanavan omistajiksi
   - Priorisoikaa backend (tietokanta ja API), jotta käyttöliittymän voi tehdä toimimaan suoraan sitä vasten
-  - Tietokannan ER-kaavio pitää olla ohjeiden mukaisesti tehtynä ja ohjaajan (SPL:Jukka, SPO:Pekka) hyväksymä. Laittakaa ER-kaavio Teamsin Files osioon ja postatkaa viesti (ryhmästä riippuen)
+  - Tietokannan ER-kaavio pitää olla ohjeiden mukaisesti tehtynä ja ohjaajalle viesti Teamsin kautta (SPL:Jukka, SPO:Pekka). Laittakaa ER-kaavio Teamsin Files osioon ja postatkaa viesti (ryhmästä riippuen)
     - "@Jukka Jauhiainen ER-kaavio valmis".
     - "@Pekka Alaluukas ER-kaavio valmis".
-  - Tietokannan, rajapinnan ja käyttöliittymän suunnittelua ja tekemistä
-  - Qt-sovellus alulle
-
 
 **Vinkkejä tietokannan suunnitteluun**
   - Lukekaa [https://peatutor.com/databases/db.php#design](https://peatutor.com/databases/db.php#design) ja miettikää erityisesti **monen-suhde-moneen yhteydet**
