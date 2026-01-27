@@ -420,8 +420,6 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 - Viikkopalaveri opettajan kanssa
   - Versiohallinnan esittely (Tarkistetaan että repository on alustettu)
   - Esitelkää mitä dokumentteihin (projektisuunnitelma, tekninen määrittely) on kirjattu tähän mennessä
-- Luento:
-  - Projektin suunnitteluvaihe ja UML-mallinnus osa 2: Komponenttikaavio, tilakaavio
 - Sovelluksen tekemistä
 - Tämän viikon aikana pitää olla tehtynä:
   - Ohjelmistokehityksen perusteet ja UML-mallinnus videot katsottuna: [Soittolista luentotallenteista](https://www.youtube.com/playlist?list=PLWl0bS7jZq99iOUNmMyuT9EgU6YfxP_en)
