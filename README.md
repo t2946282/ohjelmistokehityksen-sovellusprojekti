@@ -391,7 +391,7 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
     - Luotuasi tunnuksen, saat sähköpostin, jossa on tunnuksesi ja salasanasi. Pidä ne tallessa.
 - Tutustukaa arviointikriteereihin ja päättäkää mihin arvosanaan pyritään
 - Tarkista että olet kurssin Teams-kanavalla (pyydä opettajalta pääsy jos et ole). Käytä students.oamk.fi-sähköpostiosoitetta kun kirjaudut Teamssiin
-- Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden JULKISEN alikanavan nimeltä:
+- Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden YKSITYISEN alikanavan nimeltä:
   - Ryhmä-Lxx tai Ryhmä-Oxx SPL:n ryhmä 1:n kanava on nimeltään Ryhmä-L1 ja SPO:n ryhmä 1:n kanava on nimeltään on Ryhmä-O1, jne.
 - Kun ryhmän Teams-kanava on luotu, lisää kanavalle ryhmän muut jäsenet. Lisää myös ohjaavat opettajat kanavan omistajaksi: Pekka Alaluukas, Jukka Jauhiainen, Kari Jyrkkä, Teemu Leppänen, Pasi Mustonen
 - Github käyttöön (Pekan tekemän organisaation alle): [Pekan ohje](#initialize)
@@ -427,6 +427,7 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
   - Ohjelmistokehityksen perusteet ja UML-mallinnus videot katsottuna: [Soittolista luentotallenteista](https://www.youtube.com/playlist?list=PLWl0bS7jZq99iOUNmMyuT9EgU6YfxP_en)
   - Projektisuunnitelma valmis.
   - Tekninen määrittely osin tehtynä: Järjestelmäarkkitehtuuri, Käyttötapaukset, Tietosisältö 
+  - ER-kaavio hyväksytty
 
 # Viikko 3
 
@@ -443,8 +444,8 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 - Sovelluksen tekemistä
 - Tämän viikon aikana pitää olla tehtynä:
   - Readme.md:n ensimmäinen versio repositorylle Githubissa
-  - Sovelluksen tekemistä
-  - [Postmanilla](https://www.postman.com/) API:n testaus jos API jo tehtynä
+  - Backendissä endpointteja
+  - Tehtyjen endpointtien testausta [Postmanilla](https://www.postman.com/) 
 
 # Viikko 4
 
@@ -452,6 +453,9 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
   - Versiohallinnan esittely
 - Sovelluksen tekemistä
 - Teknisen määrittelydokumentin tekemistä
+- Tämän viikon aikana pitää olla tehtynä:
+  - Login endpoint backendissä (kortin numerolla ja oikealla PIN koodilla saadaan webtoken)
+  - Vähintään pankkiautomaatin tarvitsemat endpointit backendissä 
 
 # Viikko 5
 
@@ -461,7 +465,7 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 - Sovelluksen tekemistä
 - Tämän viikon aikana pitää olla tehtynä:
   - Tekninen määrittelydokumentti kokonaan valmiiksi 
-  - Sovelluksen tekemistä
+  - Kirjautuminen onnistuu Qt-sovelluksesta (ainakin kovakoodatulla kortin numerolla eli sarjaportinlukijan ei tarvitse olla valmis)
  
   
 # Viikko 6
@@ -469,10 +473,12 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 - Viikkopalaveri
   - Esitellään valmis tekninen määrittelydokumentti
   - Versiohallinnan esittely
+  - Sovelluksen tekemistä
 
 - Tämän viikon aikana pitää olla tehtynä:
   - Projektille kirjoitettu markdown-muotoinen Readme-tiedosto Githubiin
-  - Sovelluksen tekemistä
+  - Kortinlukija toiminnassa
+
 
 # Viikko 7
 
@@ -485,7 +491,6 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 - Tämän viikon aikana pitää olla tehtynä:
   - Posteri valmiiksi ja Teamssiin
   - Posteri Githubissa kuvana ja linkitetty readme.md:ssä repositoryn etusivulle
-  - Sovelluksen tekemistä
 
 # Viikko 8
 
