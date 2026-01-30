@@ -540,6 +540,7 @@ git checkout -b initialize
 
 Anna groupx kansiossa seuraavat komennot
 ```bash
+mkdir documents
 mkdir backend
 cd backend
 npx express-generator --no-view
@@ -594,6 +595,7 @@ Varmista, että GitHubissa näkyy seuraavat kansiot:
 
 - backend  
 - bank-automat
+- documents
 
 Ja että seuraavat **eivät ole GitHubissa**:
 
