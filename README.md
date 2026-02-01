@@ -409,7 +409,6 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
   - Projektisuunnitelma alulle
   - Tekninen määrittely-dokumentti alulle
   - Github repository käyttöön
-  - Ryhmän Teams-kanava luotu kurssin Teams-kanavan alle. Ryhmän jäsenet ja opettajat lisätty privaattikanavan omistajiksi
   - Priorisoikaa backend (tietokanta ja API), jotta käyttöliittymän voi tehdä toimimaan suoraan sitä vasten
   - Tietokannan ER-kaavio pitää olla ohjeiden mukaisesti tehtynä ja ladattuna PNG-kuvana GitHubiin documents kansioon. Kun se on tehty, laittakaa  ohjaajalle viesti rymänne Teamsin kautta (SPL:Jukka, SPO:Pekka). 
     - "@Jukka Jauhiainen ER-kaavio valmis".
