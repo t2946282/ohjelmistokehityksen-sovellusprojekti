@@ -382,18 +382,22 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
   
 # Viikko 1
 
-- Aloitusinfo
-- Luodaan ja numeroidaan neljän opiskelijan ryhmät
-- Jokainen opiskelija luo tunnuksen itselleen sivustolla
+## 1. Päivän / TEHTÄVÄT 
+
+1. Luodaan neljän hengen ryhmät [Excel-dokumentissa](<https://unioulu-my.sharepoint.com/:x:/g/personal/alaluuk_oamk_fi/IQBgHAzlTg22TYgV7PycCmFeAbtyxjCUqFPvKd9RjO1HQjc?e=hFPzhm>)
+
+2. Jokainen opiskelija luo tunnuksen itselleen sivustolla
   [https://peatutor.com/project_app/register/tvt25spl](https://peatutor.com/project_app/register/tvt25spl) TAI [https://peatutor.com/project_app/register/tvt25spo](https://peatutor.com/project_app/register/tvt25spo)
     - Voit keksiä minkä hyvänsä tunnuksen
     - Rekisteröityä voi vain oamk.fi ja oulu.fi sähköposteilla
     - Luotuasi tunnuksen, saat sähköpostin, jossa on tunnuksesi ja salasanasi. Pidä ne tallessa.
+3. Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden JULKISEN alikanavan, jolla on sama nimi kuin ryhmällä Excelissä eli SPL-01, SPL-02,...SPO-01, SPO-02, .... 
+
+## Loppuviikon / TEHTÄVÄT
+
 - Tutustukaa arviointikriteereihin ja päättäkää mihin arvosanaan pyritään
 - Tarkista että olet kurssin Teams-kanavalla (pyydä opettajalta pääsy jos et ole). Käytä students.oamk.fi-sähköpostiosoitetta kun kirjaudut Teamssiin
-- Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden YKSITYISEN alikanavan nimeltä:
-  - Ryhmä-Lxx tai Ryhmä-Oxx SPL:n ryhmä 1:n kanava on nimeltään Ryhmä-L1 ja SPO:n ryhmä 1:n kanava on nimeltään on Ryhmä-O1, jne.
-- Kun ryhmän Teams-kanava on luotu, lisää kanavalle ryhmän muut jäsenet. Lisää myös ohjaavat opettajat kanavan omistajaksi: Pekka Alaluukas, Jukka Jauhiainen, Kari Jyrkkä, Teemu Leppänen, Pasi Mustonen
+
 - Github käyttöön (Pekan tekemän organisaation alle): [Pekan ohje](#initialize)
 - Ryhmän jäsenet sopii alustavasti kuka tekee mitäkin toiminnallisuuksia (mutta ei niin, että vain yksi tekee koko Qt-työpöytäsovelluksen, että vain yksi tekee koko tietokannan jne.)
 - Ryhmä sopii käytetäänko Qt sovelluksessa build järjestelmänä **qmake**:a vai **cmake**:a (on parasta että koko ryhmä käyttää samaa)
