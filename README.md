@@ -251,7 +251,7 @@ Nämä ovat itse ohjelmistokokonaisuutta koskevat minimit (arviointi):
 | PIN-lukitus tietokantaan   |    |    |    | x  | x  |
 | 30 s timerit               |    |    |    | x  | x  |
 | Tilitapahtumien selaus     |    |    |    | x  | x  |
-| Tilakaavio                 |    |    |    | x  | x  |
+| Tilakaavio                 |    |    |    |    | x  |
 | Kaksoiskortti              |    |    |    |    | x  |
 | Lisäominaisuus             |    |    |    |    | x  |
 
