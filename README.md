@@ -549,6 +549,17 @@ cd backend
 npx express-generator --no-view
 npm install
 ```
+**Huom!** Tuo express-generator asentaa hieman vanhat npm-paketit, joten voitte halutessanne korvata tuon npx komennon seraavilla komennoilla (jotka ajetaan backend kansiossa):
+
+```bash
+npm init
+npm install express mysql2 bcryptjs jsonwebtoken dotenv
+npm install
+mkdir routes
+mkdir models
+```
+
+Ja sitten app.js rakennetaan kuten luennoilla on opastettu.
 
 ---
 
