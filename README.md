@@ -135,9 +135,9 @@ Esimerkiksi näillä työkaluilla:
 
 Katso näistä Teams-kanavan dokumenteista mallia teknisen määrittelydokumentin kaavioihin:
 
-- Ohjelmistokehityksen [materiaalit](<https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit?csf=1&web=1&e=T5e6e4>)
-- Valmiita esimerkkejä [määrittelyvaiheen kaavioista](<https://unioulu.sharepoint.com/:b:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit/IN00CS90_Luku_5_Maarittelyvaihe.pdf?csf=1&web=1&e=TnPtge>)
-- UML-mallinnuksen [kaavioesimerkit](<https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit/UML-mallinnus?csf=1&web=1&e=0UrXUt>)
+- Ohjelmistokehityksen [materiaalit](<https://ohjelmistokehityksen-sovellusprojekti.oulu.net/>)
+- Valmiita esimerkkejä [määrittelyvaiheen kaavioista](<https://unioulu.sharepoint.com/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FOhjelmistokehityksensovellusprojektitestialusta%2FShared%20Documents%2F3%2E%20Tiedostot%20ja%20yleiset%20oppimateriaalit%2FOhjelmistokehityksen%20materiaalit%2FIN00CS90%5FLuku%5F5%5FMaarittelyvaihe%2Epdf&parent=%2Fsites%2FOhjelmistokehityksensovellusprojektitestialusta%2FShared%20Documents%2F3%2E%20Tiedostot%20ja%20yleiset%20oppimateriaalit%2FOhjelmistokehityksen%20materiaalit>)
+- UML-mallinnuksen [kaavioesimerkit](<hhttps://unioulu.sharepoint.com/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FOhjelmistokehityksensovellusprojektitestialusta%2FShared%20Documents%2F3%2E%20Tiedostot%20ja%20yleiset%20oppimateriaalit%2FOhjelmistokehityksen%20materiaalit%2FIN00CS90%5FLuku%5F5%5FMaarittelyvaihe%2Epdf&parent=%2Fsites%2FOhjelmistokehityksensovellusprojektitestialusta%2FShared%20Documents%2F3%2E%20Tiedostot%20ja%20yleiset%20oppimateriaalit%2FOhjelmistokehityksen%20materiaalit>)
 - Yleinen [esimerkkikuva järjestelmäarkkitehtuurista](./dl/arkkitehtuurikuva.png)
 
 
