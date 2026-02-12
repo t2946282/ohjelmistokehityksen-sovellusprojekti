@@ -49,9 +49,6 @@ Kolmannesta viikosta alkaen ryhmät työskentelevät joka päivä klo 9-15.
 - [Viikko 7](./#viikko-7)
 - [Viikko 8](./#viikko-8)
 
-### Ohjaajien kommentteja ja vinkkejä
-
-- Tänne on kasattu aikaisempien projektien [ohjaajien kommentteja ja vinkkejä](./dl/kommentit.md)
 
 ### Projektista
 
@@ -120,7 +117,7 @@ Lisätehtäviä parempaan arvosanaan:
 ### Ohjelmistokehityksen perusteet ja UML-mallinnus videot Yujassa (Teemu Leppänen)
 
 - Teemu Leppäsen luentotallenteet [videosoittolista \(kevät 2025\)](https://oulu.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%2221064f4a-0801-451c-8e5c-b29d00e337be%22)
-- Teamsissa [oppimateriaalit-kanava](<https://unioulu.sharepoint.com/:f:/r/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/3.%20Tiedostot%20ja%20yleiset%20oppimateriaalit?csf=1&web=1&e=hbYrc3>)
+- Teamsissa [oppimateriaalit-kanava](<https://teams.microsoft.com/l/team/19%3AiSzaGeSHPSjiSnvjDk3gKzY6XiPbTEHXK8-yJmtdoEg1%40thread.tacv2/conversations?groupId=a3716609-9758-423f-b2b7-61bd3c9471a6&tenantId=9f9ce49a-5101-4aa3-8c75-0d5935ad6525>)
 
 ### Esimerkkisovelluksen UML-kaaviot
 
