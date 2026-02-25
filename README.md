@@ -190,6 +190,7 @@ Nämä ovat itse ohjelmistokokonaisuutta koskevat minimit (arviointi):
 
 - Aikataulussa pysyminen. Työtä pitää tehdä järjestelmällisesti. Viikkoraportointi vaaditaan!
 - Jokaisen ryhmän jäsenen pitää osata kertoa omasta tekemisestä viikkopalaverissa
+- Opiskelijan tulee osata selittää kirjoittamansa koodi
 - Ohjaajan arvioon (tämä perustuu palavereissa saatuihin kokemuksiin ja GitHubin näkymiin)
 - Ryhmän tuottaman sovellukseen tasoon (kts. Sovelluksen arviointi)
 - Toveriarvioon, joka tehdään web-sovelluksella (vertaisarviointi)
