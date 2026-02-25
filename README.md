@@ -49,109 +49,6 @@ Kolmannesta viikosta alkaen ryhmät työskentelevät joka päivä klo 9-15.
 - [Viikko 7](./#viikko-7)
 - [Viikko 8](./#viikko-8)
 
-
-### Projektista
-
-- Minimikomponentit (ohjelmisto):
-  - Tietokanta (MySQL)
-  - Node.js-rajapinta (API) MySQL-tietokantaan
-  - Käyttöliittymä (Qt-työpöytäsovellus C++:lla)
-- 4 hengen ryhmät
-- Versionhallinta (Git + Github)
-- Projektidokumentti
-- Tekninen määrittelydokumentti
-- Readme.md -tiedosto Github-repositorylle (etusivu)
-- MS Teams viestintään
-- Viikkopalaverit
-- Loppuesitykset videona ja englanninkielinen posteri
-
-Avainsanoja: UML/määrittelyt, Qt, API, MySQL, UI/UX
-
-
-### Oppimistavoitteet
-
-- Opiskelija tunnistaa ja ymmärtää ohjelmistokehityksen vaihejakomallin perusvaiheet. Hän tietää eri vaiheiden merkitykset, vaihetuotteet ja vaiheiden erot
-- Itsenäisen ja ryhmätyöskentelyn avulla opiskelija oppii suunnittelemaan ja toteuttamaan vaatimusmäärittelyn mukaisen järjestelmän käyttäen moderneja kehitystyökaluja
-- Opiskelija ymmärtää ryhmätyöskentelyn merkityksen ohjelmistokehitystyössä
-- Opiskelija osaa käyttää oliopohjaista mallinnuskieltä kehitystyön (UML) eri vaiheissa ja osaa kirjoittaa kaavioiden pohjalta ohjelmakoodia
-- Opiskelija osaa suunnitella ja toteuttaa oliopohjaisen sovelluksen luokkakirjaston mukaisesti
-- Opiskelija osaa suunnitella ja toteuttaa sovellukseen tietokanta-arkkitehtuurin
-- Opiskelija osaa laatia ohjelmistoprojektin dokumentaation ja pystyy viestimään suullisesti ja kirjallisesti, myös englanniksi
-
-### Generatiiviset tekoälyt (AI-koodaus) ja vastaavat apuvälineet. Ohjaajien (ja yleisestikin IT-opettajien) ajatuksia aiheesta:
-
-- Tekoäly on hyvä renki, mutta huono isäntä. Varsinkin oppimisessa.
-- Tekoälyäkin pitää oppia hyödyntämään, mutta vähän myöhemmin
-- Ensin on kuitenkin syytä opiskella perusteet, oli se sitten vaikkapa IT arkkitehtuurista, ohjelmistotekniikan perusteista, tietoverkoista, tietoturvallisuudesta, tietosuojasta, dokumentoinnoista, elektroniikasta yms.
-- Työnantajat tuskin palkkaavat tuhansia euroja kuussa maksavaa työntekijöitä, jotka ovat pelkästään tekoälykonttoristeja
-- Perusasioiden ymmärrys ei katoa mihinkään ja onhan se myös ammattiylpeyttä suunnitella ja käsittää mitä tapahtuu milloinkin
-- Me ohjaajina emme halua arvioida tekoälyn tekemää sovellusta ja tekemistä, vaan opiskelijoiden. Emme myöskään ryhdy poliisiksi, joka käyttää työaikansa tekoälyn jäljittämiseen, vaan **opiskelijalla on oltava itsellään halu oppia eikä tavoitella pelkästään arvosanoja**
-- Tämän projektikurssin ohjaajia yhdistää vuosikymmeniä kestänyt innostus ja kiinnostus tietotekniikkaan ja uteliaisuus oppia ja kokeilla uutta. Myös teköälyalustoja, jotka on vain uusi mielenkiintoinen vaihe tietotekniikan historiassa. Emme todellakaan ole tekoälyvastaisia, vaan päin vastoin. Niitä on hyvä ja tärkeää oppia hyödyntämään, mutta ei siten että perusteet jää oppimatta!
-
-### Arviointi
-
-Opiskelijan arviointi perustuu:
-
-- Aikataulussa pysyminen. Työtä pitää tehdä järjestelmällisesti. Viikkoraportointi vaaditaan!
-- Jokaisen ryhmän jäsenen pitää osata kertoa omasta tekemisestä viikkopalaverissa
-- Ohjaajan arvioon (tämä perustuu palavereissa saatuihin kokemuksiin ja GitHubin näkymiin)
-- Ryhmän tuottaman sovellukseen tasoon (kts. Sovelluksen arviointi)
-- Toveriarvioon, joka tehdään web-sovelluksella (vertaisarviointi)
-- Itsearvioon, joka tehdään web-sovelluksella (itsearviointi)
-- Projektidokumentointi ja tekninen määrittelydokumentti (heikko dokumentointi voi alentaa arvosanaa)
-- Englanninkielinen posteri (hyväksytty/hylätty, pitää päästä läpi)
-- Loppuesitykseen
-- Arvosanaa ei voi korottaa myöhemmin
-
-Lisätehtäviä parempaan arvosanaan:
-
-- Arvosanaan 5 vaaditaan lisäominaisuuksia (arvosanaa korottavat lisätehtävät on määritelty tarkemmin kohdassa "Yleisohje ja arviointi"). Katso [**Yleisohje ja arviointi**](#pr_ohje)
-
-
-### Qt/Express-materiaalit (Pekka Alaluukas)
-
-- Pekka Alaluukkaan [ohjeet ja tallenteet videosoittolistana](https://www.youtube.com/playlist?list=PLWl0bS7jZq99iOUNmMyuT9EgU6YfxP_en)
-- Git perusteita [Peatutor.com/git_tutor/](https://peatutor.com/git_tutor/)
-- Muita Pekan tekemiä ohjeita (Qt yms.): [Peatutor.com/](https://peatutor.com/)
-
-### Ohjelmistokehityksen perusteet ja UML-mallinnus videot Yujassa (Teemu Leppänen)
-
-- Teemu Leppäsen luentotallenteet [videosoittolista \(kevät 2025\)](https://oulu.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%2221064f4a-0801-451c-8e5c-b29d00e337be%22)
-- Teamsissa [oppimateriaalit-kanava](<https://unioulu.sharepoint.com/:f:/r/sites/OhjelmistokehitysProjekti/Shared%20Documents/Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit?csf=1&web=1&e=hNAzHw>)
-
-### Esimerkkisovelluksen UML-kaaviot
-
-- Pekan luennoilla rakennetaan esimerkkisovellus, jonka UML-kaaviot ja muut suunnitteluvaiheet löytyvät GiHubista [https://github.com/alaluuk/peppiExample](https://github.com/alaluuk/peppiExample)
-
-
-### Kaaviot dokumentointiin
-
-Esimerkiksi näillä työkaluilla:
-
-- Drawio: [https://www.drawio.com/](https://www.drawio.com/). Suora linkki: [https://app.diagrams.net/](https://app.diagrams.net/)
-- Lucidchart: [https://www.lucidchart.com](https://www.lucidchart.com)
-- Diagrameditor: [https://www.diagrameditor.com/](https://www.diagrameditor.com/)
-- PlantUML: [https://plantuml.com/](https://plantuml.com/)
-
-Katso näistä Teams-kanavan dokumenteista mallia teknisen määrittelydokumentin kaavioihin:
-
-- Ohjelmistokehityksen [materiaalit](<https://unioulu.sharepoint.com/:f:/r/sites/OhjelmistokehitysProjekti/Shared%20Documents/Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit?csf=1&web=1&e=wTy8hF>)
-- Valmiita esimerkkejä [määrittelyvaiheen kaavioista](<https://unioulu.sharepoint.com/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FOhjelmistokehityksensovellusprojektitestialusta%2FShared%20Documents%2F3%2E%20Tiedostot%20ja%20yleiset%20oppimateriaalit%2FOhjelmistokehityksen%20materiaalit%2FIN00CS90%5FLuku%5F5%5FMaarittelyvaihe%2Epdf&parent=%2Fsites%2FOhjelmistokehityksensovellusprojektitestialusta%2FShared%20Documents%2F3%2E%20Tiedostot%20ja%20yleiset%20oppimateriaalit%2FOhjelmistokehityksen%20materiaalit>)
-- UML-mallinnuksen [kaavioesimerkit](<https://unioulu.sharepoint.com/:f:/r/sites/OhjelmistokehitysProjekti/Shared%20Documents/Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit/UML-mallinnus?csf=1&web=1&e=T1to4y>)
-- Yleinen [esimerkkikuva järjestelmäarkkitehtuurista](./dl/arkkitehtuurikuva.png)
-
-
-## Noin 10-15 min viikkopalavereiden yleinen agenda
-
-- Pääsääntöisesti kaikkien pitää olla paikalla
-- Yleistä keskustelua, että miten projekti on edennyt
-- Yleistä keskustelua, että miten kukin opiskelija on osallistunut (eli jokainen opiskelija kertoo itse mitä on tehnyt kuluneen viikon aikana)
-- Versiohallinnan esittely (ja .gitignore käytössä)
-- Muutoksia arvosanatavoitteeseen tai tavoitteisiin ylipäätänsä
-- Vilkaistaan projektidokumenttia ja teknistä määrittelyä
-
- <span id="pr_ohje"></span>
- 
 # Projektityön kuvaus
 
 Työn aihe on pankkiautomaatti
@@ -173,10 +70,39 @@ Työn aihe on pankkiautomaatti
 - Qt-sovellus kommunikoi REST APIn kanssa http-protokollan avulla.
 - REST API hoitaa kommunikoinnin tietokannan kanssa.
 
+# Oppimistavoitteet
+
+- Opiskelija tunnistaa ja ymmärtää ohjelmistokehityksen vaihejakomallin perusvaiheet. Hän tietää eri vaiheiden merkitykset, vaihetuotteet ja vaiheiden erot
+- Itsenäisen ja ryhmätyöskentelyn avulla opiskelija oppii suunnittelemaan ja toteuttamaan vaatimusmäärittelyn mukaisen järjestelmän käyttäen moderneja kehitystyökaluja
+- Opiskelija ymmärtää ryhmätyöskentelyn merkityksen ohjelmistokehitystyössä
+- Opiskelija osaa käyttää oliopohjaista mallinnuskieltä kehitystyön (UML) eri vaiheissa ja osaa kirjoittaa kaavioiden pohjalta ohjelmakoodia
+- Opiskelija osaa suunnitella ja toteuttaa oliopohjaisen sovelluksen luokkakirjaston mukaisesti
+- Opiskelija osaa suunnitella ja toteuttaa sovellukseen tietokanta-arkkitehtuurin
+- Opiskelija osaa laatia ohjelmistoprojektin dokumentaation ja pystyy viestimään suullisesti ja kirjallisesti, myös englanniksi
+
+
+# Opiskelijan arviointi
+
+Kukin opiskelija arvioidaan yksilöllisesti ja arvioinnissa huomioidaan seuraavat asiat:
+
+- Sovelluksen arvosana
+- Vertais- ja itsearviointi
+- Ohjaajien näkemys
+- Githubin informaatio
+
+## Vertaisarvioinnin kohteet
+
+- Ryhmätyöskentely
+- Itsenäinen työ
+- Projektisitoutuminen
+- Qt-ohjelmointi
+- REST API -ohjelmointi
+- Tehtävien vaikeustaso
+- Gitin käyttö
+
 ## Sovelluksen arviointi
 
 Arviointi perustuu tähän dokumenttiin. Mikäli ristiriitaista tietoa esiintyy, niin tämä dokumentti on se, jota noudatetaan.
-
 
 ### Vähimmäisvaatimukset sovellukselle (arvosana 1)
 
@@ -256,7 +182,72 @@ Nämä ovat itse ohjelmistokokonaisuutta koskevat minimit (arviointi):
 #### Arvosanaa alentavia seikkoja
 
 - Dokumentoinnin puutteet
-- MVC-mallin noudattamatta jättäminen backendissä
+- Sovelluksen rakenne ei ole annettujen määritysten mukainen
+
+
+
+## Tiivistelmä arvioinnissa huomioitavista asioista:
+
+- Aikataulussa pysyminen. Työtä pitää tehdä järjestelmällisesti. Viikkoraportointi vaaditaan!
+- Jokaisen ryhmän jäsenen pitää osata kertoa omasta tekemisestä viikkopalaverissa
+- Ohjaajan arvioon (tämä perustuu palavereissa saatuihin kokemuksiin ja GitHubin näkymiin)
+- Ryhmän tuottaman sovellukseen tasoon (kts. Sovelluksen arviointi)
+- Toveriarvioon, joka tehdään web-sovelluksella (vertaisarviointi)
+- Itsearvioon, joka tehdään web-sovelluksella (itsearviointi)
+- Projektidokumentointi ja tekninen määrittelydokumentti (heikko dokumentointi voi alentaa arvosanaa)
+- Englanninkielinen posteri (hyväksytty/hylätty, pitää päästä läpi)
+- Loppuesitykseen
+- Arvosanaa ei voi korottaa myöhemmin
+
+
+# Oppimateriaalit
+
+### Qt/Express-materiaalit (Pekka Alaluukas)
+
+- Pekka Alaluukkaan [ohjeet ja tallenteet videosoittolistana](https://www.youtube.com/playlist?list=PLWl0bS7jZq99iOUNmMyuT9EgU6YfxP_en)
+- Git perusteita [Peatutor.com/git_tutor/](https://peatutor.com/git_tutor/)
+- Muita Pekan tekemiä ohjeita (Qt yms.): [Peatutor.com/](https://peatutor.com/)
+
+### Ohjelmistokehityksen perusteet ja UML-mallinnus videot Yujassa (Teemu Leppänen)
+
+- Teemu Leppäsen luentotallenteet [videosoittolista \(kevät 2025\)](https://oulu.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%2221064f4a-0801-451c-8e5c-b29d00e337be%22)
+- Teamsissa [oppimateriaalit-kanava](<https://unioulu.sharepoint.com/:f:/r/sites/OhjelmistokehitysProjekti/Shared%20Documents/Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit?csf=1&web=1&e=hNAzHw>)
+
+### Esimerkkisovelluksen UML-kaaviot
+
+- Pekan luennoilla rakennetaan esimerkkisovellus, jonka UML-kaaviot ja muut suunnitteluvaiheet löytyvät GiHubista [https://github.com/alaluuk/peppiExample](https://github.com/alaluuk/peppiExample)
+
+
+### Kaaviot dokumentointiin
+
+Esimerkiksi näillä työkaluilla:
+
+- Drawio: [https://www.drawio.com/](https://www.drawio.com/). Suora linkki: [https://app.diagrams.net/](https://app.diagrams.net/)
+- Lucidchart: [https://www.lucidchart.com](https://www.lucidchart.com)
+- Diagrameditor: [https://www.diagrameditor.com/](https://www.diagrameditor.com/)
+- PlantUML: [https://plantuml.com/](https://plantuml.com/)
+
+Katso näistä Teams-kanavan dokumenteista mallia teknisen määrittelydokumentin kaavioihin:
+
+- Ohjelmistokehityksen [materiaalit](<https://unioulu.sharepoint.com/:f:/r/sites/OhjelmistokehitysProjekti/Shared%20Documents/Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit?csf=1&web=1&e=wTy8hF>)
+- Valmiita esimerkkejä [määrittelyvaiheen kaavioista](<https://unioulu.sharepoint.com/sites/Ohjelmistokehityksensovellusprojektitestialusta/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FOhjelmistokehityksensovellusprojektitestialusta%2FShared%20Documents%2F3%2E%20Tiedostot%20ja%20yleiset%20oppimateriaalit%2FOhjelmistokehityksen%20materiaalit%2FIN00CS90%5FLuku%5F5%5FMaarittelyvaihe%2Epdf&parent=%2Fsites%2FOhjelmistokehityksensovellusprojektitestialusta%2FShared%20Documents%2F3%2E%20Tiedostot%20ja%20yleiset%20oppimateriaalit%2FOhjelmistokehityksen%20materiaalit>)
+- UML-mallinnuksen [kaavioesimerkit](<https://unioulu.sharepoint.com/:f:/r/sites/OhjelmistokehitysProjekti/Shared%20Documents/Tiedostot%20ja%20yleiset%20oppimateriaalit/Ohjelmistokehityksen%20materiaalit/UML-mallinnus?csf=1&web=1&e=T1to4y>)
+- Yleinen [esimerkkikuva järjestelmäarkkitehtuurista](./dl/arkkitehtuurikuva.png)
+
+
+## Noin 10-15 min viikkopalavereiden yleinen agenda
+
+- Pääsääntöisesti kaikkien pitää olla paikalla
+- Yleistä keskustelua, että miten projekti on edennyt
+- Yleistä keskustelua, että miten kukin opiskelija on osallistunut (eli jokainen opiskelija kertoo itse mitä on tehnyt kuluneen viikon aikana)
+- Versiohallinnan esittely (ja .gitignore käytössä)
+- Muutoksia arvosanatavoitteeseen tai tavoitteisiin ylipäätänsä
+- Vilkaistaan projektidokumenttia ja teknistä määrittelyä
+
+ <span id="pr_ohje"></span>
+ 
+
+
 
 ## Vaatimukset tietokannalle
 
@@ -294,24 +285,9 @@ Nämä ovat itse ohjelmistokokonaisuutta koskevat minimit (arviointi):
 -yksi kortti on kytketty moneen eri tiliin (vaikka se on käytännössä korkeintaan kahteen tiliin(debit ja credit).
 ->Tästä seuraa hyvin tavanomainen RELAATIOTIETOKANNAN "pulma" joka  ratkaistaan välitystaulun avulla
 
-## Opiskelijan arviointi
 
-- Sovelluksen arvosana
-- Vertais- ja itsearviointi
-- Ohjaajien näkemys
-- Githubin informaatio
 
-### Arvioinnin kohteet
-
-- Ryhmätyöskentely
-- Itsenäinen työ
-- Projektisitoutuminen
-- Qt-ohjelmointi
-- REST API -ohjelmointi
-- Tehtävien vaikeustaso
-- Gitin käyttö
-
-## Lisäominaisuusideoita (arvosanan 5 tarvitaan vähintään yksi tällainen lisäominaisuus)
+# Lisäominaisuusideoita (arvosanan 5 tarvitaan vähintään yksi tällainen lisäominaisuus)
 
 ## Kuvan lataus ja näyttäminen
 
@@ -377,6 +353,16 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 
 - Qt-sovellus pankin henkilökunnalle. Sovelluksella voidaan esimerkiksi luoda uusia asiakkaita, tilejä ja kortteja jne. 
   
+# Generatiiviset tekoälyt (AI-koodaus) ja vastaavat apuvälineet. Ohjaajien (ja yleisestikin IT-opettajien) ajatuksia aiheesta:
+
+- Tekoäly on hyvä renki, mutta huono isäntä. Varsinkin oppimisessa.
+- Tekoälyäkin pitää oppia hyödyntämään, mutta vähän myöhemmin
+- Ensin on kuitenkin syytä opiskella perusteet, oli se sitten vaikkapa IT arkkitehtuurista, ohjelmistotekniikan perusteista, tietoverkoista, tietoturvallisuudesta, tietosuojasta, dokumentoinnoista, elektroniikasta yms.
+- Työnantajat tuskin palkkaavat tuhansia euroja kuussa maksavaa työntekijöitä, jotka ovat pelkästään tekoälykonttoristeja
+- Perusasioiden ymmärrys ei katoa mihinkään ja onhan se myös ammattiylpeyttä suunnitella ja käsittää mitä tapahtuu milloinkin
+- Me ohjaajina emme halua arvioida tekoälyn tekemää sovellusta ja tekemistä, vaan opiskelijoiden. Emme myöskään ryhdy poliisiksi, joka käyttää työaikansa tekoälyn jäljittämiseen, vaan **opiskelijalla on oltava itsellään halu oppia eikä tavoitella pelkästään arvosanoja**
+- Tämän projektikurssin ohjaajia yhdistää vuosikymmeniä kestänyt innostus ja kiinnostus tietotekniikkaan ja uteliaisuus oppia ja kokeilla uutta. Myös teköälyalustoja, jotka on vain uusi mielenkiintoinen vaihe tietotekniikan historiassa. Emme todellakaan ole tekoälyvastaisia, vaan päin vastoin. Niitä on hyvä ja tärkeää oppia hyödyntämään, mutta ei siten että perusteet jää oppimatta!
+
 # Viikko 1
 
 ## 1. Päivän / TEHTÄVÄT 
@@ -492,7 +478,12 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 
 # Viikko 8
 
-- Laadi vastaava taulukko kuin kohdassa [**Tiivistelmä arvosanoille**](#arvosana_tiiviste) ja rastita siihen oman toteutuksen suoritetut tehtävät
+- Laadi vastaava taulukko kuin kohdassa [**Tiivistelmä arvosanoille**](#arvosana_tiiviste) ja rastita siihen oman toteutuksen suoritetut tehtävät.
+  
+  - Voit ladata excel-tiedoston (taskit.xlsx) Teamsin kanavalta **Tiedostot ja yhteiset oppimateriaalit**
+  - Rastita tehdyt tehtävät
+  - Lataa tiedosto GitRepon juureen (jos et käytä exceliä laita kuitenkin nimen alkuosaksi taskit)
+  
 - Demovideo projektista:
   - Videon pituuden tulisi olla noin 5 minuuttia, missä ehtii yleensä näyttämään keskeiset osat applikaatiosta ja posterista.
   - Videon on oltava julkisesti saatavilla ilman kirjautumista
