@@ -191,13 +191,13 @@ Nämä ovat itse ohjelmistokokonaisuutta koskevat minimit (arviointi):
 - Aikataulussa pysyminen. Työtä pitää tehdä järjestelmällisesti. Viikkoraportointi vaaditaan!
 - Jokaisen ryhmän jäsenen pitää osata kertoa omasta tekemisestä viikkopalaverissa
 - Opiskelijan tulee osata selittää kirjoittamansa koodi
-- Ohjaajan arvioon (tämä perustuu palavereissa saatuihin kokemuksiin ja GitHubin näkymiin)
+- Ohjaajan arvio perustuu palavereissa saatuihin kokemuksiin ja GitHubin näkymiin
 - Ryhmän tuottaman sovellukseen tasoon (kts. Sovelluksen arviointi)
-- Toveriarvioon, joka tehdään web-sovelluksella (vertaisarviointi)
-- Itsearvioon, joka tehdään web-sovelluksella (itsearviointi)
+- Toveriarvio tehdään web-sovelluksella (vertaisarviointi)
+- Itsearvio tehdään web-sovelluksella (itsearviointi)
 - Projektidokumentointi ja tekninen määrittelydokumentti (heikko dokumentointi voi alentaa arvosanaa)
 - Englanninkielinen posteri (hyväksytty/hylätty, pitää päästä läpi)
-- Loppuesitykseen
+- Loppuesitys vaikuttaa arvosanaan
 - Arvosanaa ei voi korottaa myöhemmin
 
 
