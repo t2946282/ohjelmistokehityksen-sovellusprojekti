@@ -236,21 +236,7 @@ Katso näistä Teams-kanavan dokumenteista mallia teknisen määrittelydokumenti
 - Yleinen [esimerkkikuva järjestelmäarkkitehtuurista](./dl/arkkitehtuurikuva.png)
 
 
-## Noin 10-15 min viikkopalavereiden yleinen agenda
-
-- Pääsääntöisesti kaikkien pitää olla paikalla
-- Yleistä keskustelua, että miten projekti on edennyt
-- Yleistä keskustelua, että miten kukin opiskelija on osallistunut (eli jokainen opiskelija kertoo itse mitä on tehnyt kuluneen viikon aikana)
-- Versiohallinnan esittely (ja .gitignore käytössä)
-- Muutoksia arvosanatavoitteeseen tai tavoitteisiin ylipäätänsä
-- Vilkaistaan projektidokumenttia ja teknistä määrittelyä
-
- <span id="pr_ohje"></span>
- 
-
-
-
-## Vaatimukset tietokannalle
+# Vaatimukset tietokannalle
 
 ### Ilman credit-kortti ominaisuutta
 
@@ -288,7 +274,8 @@ Katso näistä Teams-kanavan dokumenteista mallia teknisen määrittelydokumenti
 
 
 
-# Lisäominaisuusideoita (arvosanan 5 tarvitaan vähintään yksi tällainen lisäominaisuus)
+# Lisäominaisuusideoita 
+(arvosanan 5 tarvitaan vähintään yksi tällainen lisäominaisuus)
 
 ## Kuvan lataus ja näyttäminen
 
@@ -363,6 +350,18 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 - Perusasioiden ymmärrys ei katoa mihinkään ja onhan se myös ammattiylpeyttä suunnitella ja käsittää mitä tapahtuu milloinkin
 - Me ohjaajina emme halua arvioida tekoälyn tekemää sovellusta ja tekemistä, vaan opiskelijoiden. Emme myöskään ryhdy poliisiksi, joka käyttää työaikansa tekoälyn jäljittämiseen, vaan **opiskelijalla on oltava itsellään halu oppia eikä tavoitella pelkästään arvosanoja**
 - Tämän projektikurssin ohjaajia yhdistää vuosikymmeniä kestänyt innostus ja kiinnostus tietotekniikkaan ja uteliaisuus oppia ja kokeilla uutta. Myös teköälyalustoja, jotka on vain uusi mielenkiintoinen vaihe tietotekniikan historiassa. Emme todellakaan ole tekoälyvastaisia, vaan päin vastoin. Niitä on hyvä ja tärkeää oppia hyödyntämään, mutta ei siten että perusteet jää oppimatta!
+
+
+# Viikkopalavereiden yleinen agenda
+
+- Pääsääntöisesti kaikkien pitää olla paikalla
+- Yleistä keskustelua, että miten projekti on edennyt
+- Yleistä keskustelua, että miten kukin opiskelija on osallistunut (eli jokainen opiskelija kertoo itse mitä on tehnyt kuluneen viikon aikana)
+- Versiohallinnan esittely
+- Muutoksia arvosanatavoitteeseen tai tavoitteisiin ylipäätänsä
+- Vilkaistaan projektidokumenttia ja teknistä määrittelyä
+
+ <span id="pr_ohje"></span>
 
 # Viikko 1
 
