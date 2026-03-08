@@ -371,6 +371,7 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 
 2. Jokainen opiskelija luo tunnuksen itselleen sivustolla
   [https://peatutor.com/project_app/register/tvt25spl](https://peatutor.com/project_app/register/tvt25spl) TAI [https://peatutor.com/project_app/register/tvt25spo](https://peatutor.com/project_app/register/tvt25spo)
+    - Ennen rekisteröitymistä, tarkista mikä on sinun GitHub-tunnus, koska se tarvitaan
     - Voit keksiä minkä hyvänsä tunnuksen
     - Rekisteröityä voi vain oamk.fi ja oulu.fi sähköposteilla
     - Luotuasi tunnuksen, saat sähköpostin, jossa on tunnuksesi ja salasanasi. Pidä ne tallessa.
