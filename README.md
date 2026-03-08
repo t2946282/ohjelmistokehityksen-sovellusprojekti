@@ -542,7 +542,6 @@ npm install
 ```bash
 npm init
 npm install express mysql2 bcryptjs jsonwebtoken dotenv
-npm install
 mkdir routes
 mkdir models
 ```
