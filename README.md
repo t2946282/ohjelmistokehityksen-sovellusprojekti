@@ -371,10 +371,14 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 
 2. Jokainen opiskelija luo tunnuksen itselleen sivustolla
   [https://peatutor.com/project_app/register/tvt25spl](https://peatutor.com/project_app/register/tvt25spl) TAI [https://peatutor.com/project_app/register/tvt25spo](https://peatutor.com/project_app/register/tvt25spo)
-    - Ennen rekisteröitymistä, tarkista mikä on sinun GitHub-tunnus, koska se tarvitaan
-    - Voit keksiä minkä hyvänsä tunnuksen
+  
+   
+    - Voit keksiä minkä hyvänsä tunnuksen (joka on vapaa)
     - Rekisteröityä voi vain oamk.fi ja oulu.fi sähköposteilla
     - Luotuasi tunnuksen, saat sähköpostin, jossa on tunnuksesi ja salasanasi. Pidä ne tallessa.
+
+    **Huom!** Tarkista ennen rekisteröitymistä, tarkista mikä on sinun GitHub-tunnus, koska se on annettava rekisteröityessä.
+
 3. Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden JULKISEN alikanavan, jolla on sama nimi kuin ryhmällä Excelissä eli SPL-01, SPL-02,...SPO-01, SPO-02, .... 
 
 ## Loppuviikon / TEHTÄVÄT
