@@ -16,7 +16,7 @@ Kaikki luennot pidetään tietoliikennelabrassa, mutta niihin voi osallistua my�
     <tr><td>Ti 10.3 klo 9–15</td><td>klo 9–11 Pekka (Tietokannan suunnittelu + Backend)<br>klo 12:30–15:30 Kari (Qt)</td></tr>
     <tr><td>Ke 11.3 klo 9–15</td><td>klo 9-12 Pekka (Qt HTTP) <br> Ryhmätyötä</td></tr>
     <tr><td>To 12.3 klo 10–15</td><td>Teemu (Ohjelmistokehitys) + ohjausta</td></tr>
-    <tr><td>Pe 13.3 klo 9–15</td><td>Ryhmätyötä (ER-kaavio palautetaan)</td></tr>
+    <tr><td>Pe 13.3 klo 9–15</td><td>klo 9-11 Pekka/Teams (Qt HTTP)<br>klo 11-15 Ryhmätyötä (ER-kaavio palautetaan)</td></tr>
   </tbody>
 </table>
 
@@ -370,7 +370,11 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 1. Luodaan neljän hengen ryhmät [Excel-dokumentissa](<https://unioulu-my.sharepoint.com/:x:/g/personal/alaluuk_oamk_fi/IQBgHAzlTg22TYgV7PycCmFeAbtyxjCUqFPvKd9RjO1HQjc?e=hFPzhm>)
 
 2. Jokainen opiskelija luo tunnuksen itselleen sivustolla
-  [https://peatutor.com/project_app/register/tvt25spl](https://peatutor.com/project_app/register/tvt25spl) TAI [https://peatutor.com/project_app/register/tvt25spo](https://peatutor.com/project_app/register/tvt25spo)
+  - SPL: 
+  [https://peatutor.com/project_app/register/tvt25spl](https://peatutor.com/project_app/register/tvt25spl)
+  
+  - SPO:
+  [https://peatutor.com/project_app/register/tvt25spo](https://peatutor.com/project_app/register/tvt25spo)
   
    
     - Voit keksiä minkä hyvänsä tunnuksen (joka on vapaa)
