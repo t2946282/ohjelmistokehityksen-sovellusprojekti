@@ -28,8 +28,8 @@ Kaikki luennot pidetään tietoliikennelabrassa, mutta niihin voi osallistua my�
   </thead>
   <tbody>
     <tr><td>Ma 16.3 klo 9–16</td><td>klo 9-11 Ryhmätyötä<br>klo 13-16 Kari (Qt)</td></tr>
-    <tr><td>Ti 17.3 klo 10–14</td><td>Teemu (Ohjelmistokehitys) + ohjausta</td></tr>
-    <tr><td>Ke 18.3 klo 9–15</td><td>Ryhmätyötä (ER-kaavio valmis)</td></tr>
+    <tr><td>Ti 17.3 klo 9–15</td><td>Ryhmätyötä (ER-kaavio valmis)</td></tr>
+    <tr><td>Ke 18.3 klo 10–14</td><td>Teemu (Ohjelmistokehitys) + ohjausta</td></tr>
     <tr><td>To 19.3 klo 9–15</td><td>Ryhmätyötä (1. palaverit: tarkistetaan GitHub)</td></tr>
     <tr><td>Pe 20.3 klo 9–15</td><td>Ryhmätyötä (1. palaverit: tarkistetaan GitHub)</td></tr>
   </tbody>
