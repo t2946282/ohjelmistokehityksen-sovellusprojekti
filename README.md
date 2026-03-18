@@ -62,7 +62,7 @@ Työn aihe on pankkiautomaatti
 - Tietokannan (MySQL/MariaDB)
 - REST API:n (Node.js/Express.js) 
   - Käytettävä MVC-mallia
-  - Käyetettävä callbackejä (ei Promisea, eikä async-await rakennetta)
+  - Käytettävä callbackejä (ei Promisea, eikä async-await rakennetta)
   - Ei saa käyttää mitään ORM:ia
 - Pankkiautomaattisovelluksen (Qt työpöytäsovellus, jossa käytetään Qt Network moduulia)
 
