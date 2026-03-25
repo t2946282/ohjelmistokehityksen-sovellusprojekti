@@ -35,6 +35,17 @@ Kaikki luennot pidetään tietoliikennelabrassa, mutta niihin voi osallistua my�
   </tbody>
 </table>
 
+### 5. Viikolla opetusta
+
+<table>
+  <thead>
+    <tr><th>Aika</th><th>Sisältö</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Pe 8.4 klo 8-10</td><td>Englannin tunnit (Miisa ja Marjo)</td></tr>
+    <tr><td>Pe 8.4 klo 12–16</td><td>UML-mallinnusta ja dokumentointia (Teemu)</td></tr>
+  </tbody>
+</table>
 
 Kolmannesta viikosta alkaen ryhmät työskentelevät joka päivä klo 9-15.
 
