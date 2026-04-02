@@ -43,7 +43,7 @@ Kaikki luennot pidetään tietoliikennelabrassa, mutta niihin voi osallistua my�
   </thead>
   <tbody>
     <tr><td>Ke 8.4 klo 8-10</td><td>Englannin tunnit (Miisa ja Marjo)</td></tr>
-    <tr><td>Ke 8.4 klo 12–16</td><td>UML-mallinnusta ja dokumentointia (Teemu)</td></tr>
+    <tr><td>Ti 14.4 klo 12–16</td><td>UML-mallinnusta ja dokumentointia (Teemu)</td></tr>
   </tbody>
 </table>
 
