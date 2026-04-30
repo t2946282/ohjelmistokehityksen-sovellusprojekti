@@ -176,6 +176,7 @@ Nämä ovat itse ohjelmistokokonaisuutta koskevat minimit (arviointi):
 |----------------------------|----|----|----|----|----|
 | Kortinlukija toimii        | x  | x  | x  | x  | x  |
 | Kirjautuminen PIN-koodilla | x  | x  | x  | x  | x  |
+| Webtoken autentikointi     | x  | x  | x  | x  | x  |
 | Saldon näyttö              | x  | x  | x  | x  | x  |
 | Rahan nosto (20,40,50,100) | x  | x  | x  | x  | x  |
 | Tilitapahtumien näyttö     | x  | x  | x  | x  | x  |
@@ -371,10 +372,9 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 
 - Pääsääntöisesti kaikkien pitää olla paikalla
 - Yleistä keskustelua, että miten projekti on edennyt
-- Yleistä keskustelua, että miten kukin opiskelija on osallistunut (eli jokainen opiskelija kertoo itse mitä on tehnyt kuluneen viikon aikana)
+- Kukin opiskelija kertoo (ja näyttää) mitä on tehnyt kuluneen viikon aikana
 - Versiohallinnan esittely
 - Muutoksia arvosanatavoitteeseen tai tavoitteisiin ylipäätänsä
-- Vilkaistaan projektidokumenttia ja teknistä määrittelyä
 
  <span id="pr_ohje"></span>
 
