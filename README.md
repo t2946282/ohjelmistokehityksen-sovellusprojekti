@@ -4,61 +4,13 @@
 - 4 opiskelijan ryhmät määritellään [Excel-dokumentissa](<https://unioulu-my.sharepoint.com/:x:/g/personal/alaluuk_oamk_fi/IQBgHAzlTg22TYgV7PycCmFeAbtyxjCUqFPvKd9RjO1HQjc?e=hFPzhm>)
 - [**Projektin alustaminen**](#initialize)
 
-### Kahden ensimmäisen viikon ohjelma
+- Ryhmät työskentelevät joka päivä klo 9-15
+- Viikko-ohjelmat: 
+|[Viikko 1](./#viikko-1) | [Viikko 2](./#viikko-2) |[Viikko 3](./#viikko-3) | [Viikko 4](./#viikko-4) | [Viikko 5](./#viikko-5) | [Viikko 6](./#viikko-6) | [Viikko 7](./#viikko-7) | [Viikko 8](./#viikko-8) |
 
-Kaikki luennot pidetään tietoliikennelabrassa, mutta niihin voi osallistua myös etäyhteydellä kunkin ohjaajan ilmoittaman linkin kautta.
-<table>
-  <thead>
-    <tr><th>Aika</th><th>Sisältö</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Ma 9.3 klo 9–15</td><td>klo 9–11 Aloitusinfo<br>klo 12–15 Pekka (Git ja repon alustus)</td></tr>
-    <tr><td>Ti 10.3 klo 9–15</td><td>klo 9–11 Pekka (Tietokannan suunnittelu + Backend)<br>klo 12:30–15:30 Kari (Qt)</td></tr>
-    <tr><td>Ke 11.3 klo 9–15</td><td>klo 9-12 Pekka (Qt HTTP) <br> Ryhmätyötä</td></tr>
-    <tr><td>To 12.3 klo 10–15</td><td>Teemu (Ohjelmistokehitys) + ohjausta</td></tr>
-    <tr><td>Pe 13.3 klo 9–15</td><td>klo 9-11 Pekka/Teams (Qt HTTP)<br>klo 11-15 Ryhmätyötä (ER-kaavio palautetaan)</td></tr>
-  </tbody>
-</table>
 
-<br>
 
-<table>
-  <thead>
-    <tr><th>Aika</th><th>Sisältö</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Ma 16.3 klo 9–16</td><td>klo 9-11 Ryhmätyötä<br>klo 13-16 Kari (Qt)</td></tr>
-    <tr><td>Ti 17.3 klo 9–15</td><td>Ryhmätyötä (ER-kaavio valmis)</td></tr>
-    <tr><td>Ke 18.3 klo 10–14</td><td>Teemu (Ohjelmistokehitys) + ohjausta</td></tr>
-    <tr><td>To 19.3 klo 9–15</td><td>Ryhmätyötä (1. palaverit: tarkistetaan GitHub)</td></tr>
-    <tr><td>Pe 20.3 klo 9–15</td><td>Ryhmätyötä (1. palaverit: tarkistetaan GitHub)</td></tr>
-  </tbody>
-</table>
 
-### 5. Viikolla opetusta
-
-<table>
-  <thead>
-    <tr><th>Aika</th><th>Sisältö</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Ke 8.4 klo 8-10</td><td>Englannin tunnit (Miisa ja Marjo)</td></tr>
-    <tr><td>Ti 14.4 klo 12–16</td><td>UML-mallinnusta ja dokumentointia (Teemu)</td></tr>
-  </tbody>
-</table>
-
-Kolmannesta viikosta alkaen ryhmät työskentelevät joka päivä klo 9-15.
-
-### Oikopolut eri viikoille
-
-- [Viikko 1](./#viikko-1)
-- [Viikko 2](./#viikko-2)
-- [Viikko 3](./#viikko-3)
-- [Viikko 4](./#viikko-4)
-- [Viikko 5](./#viikko-5)
-- [Viikko 6](./#viikko-6)
-- [Viikko 7](./#viikko-7)
-- [Viikko 8](./#viikko-8)
 
 # Projektityön kuvaus
 
@@ -120,7 +72,8 @@ Arviointi perustuu tähän dokumenttiin. Mikäli ristiriitaista tietoa esiintyy,
 
 ### Vähimmäisvaatimukset sovellukselle (arvosana 1)
 
-- Debit kortti toteutettava (ei luottoa, saldo ei saa mennä miinukselle)
+- Debit kortti toteutettava: 
+  - Debit-kortti kytketään tiliin, jolla ei ole luottoa eli tilin saldo ei saa mennä miinukselle
 - Qt-sovelluksen aloituskäyttöliittymä
 - Kortinlukijan käyttö ja PIN-koodin syöttö
 - Oikealla PIN-koodilla avautuu pääkäyttöliittymä, väärällä uudelleenkysely
@@ -130,13 +83,14 @@ Arviointi perustuu tähän dokumenttiin. Mikäli ristiriitaista tietoa esiintyy,
 
 ### Vähimmäisvaatimukset (arvosana 2)
 
+- Webtoken autentikointi toteutettu
 - PIN-koodin syötön aikaraja 10 sekuntia (jos koodia ei anneta 10 sekunnin aikana palataan aloituskäyttöliittymään)
 - REST API:in on toteutettu kaikkien tietokanta-taulujen CRUD-operaatiot (vaikkei niitä tarvita pankkiautomaatissa)
 
 ### Hyvän arvosanan vaatimukset (arvosana 3)
 
-- Kortti voi olla joko debit- tai credit -tyyppinen
-- Credit-kortilla nosto luottorajan puitteissa
+- Debit-kortin lisäksi on toteutettava credit-kortti:
+  - Credit-kortti liitetään credit tiliin eli tilillä on luottoraja ja saldo saa mennä miinukselle luottorajan verran
 - Vapaavalintaisen summan nosto (automaatissa vain 20 ja 50 € seteleitä)
 - Kolme väärää PIN-koodia lukitsee kortin (ei vaadita tallentamista tietokantaan)
 
@@ -148,12 +102,14 @@ Arviointi perustuu tähän dokumenttiin. Mikäli ristiriitaista tietoa esiintyy,
 
 ### Kiitettävän arvosanan vaatimukset (arvosana 5)
 
-- Kaksoiskortit (debit + credit samassa kortissa)
-- Kirjautuessa valinta: debit vai credit (vain jos kyseessä kaksoiskortti)
+- Toteutetaan kaksioiskortti: 
+  - Kortilla on debit ja credit ominaisuus eli se on kytketty yhteen credit-tiliin ja yhteen debit-tiliin
+- Kirjautuessa valinta: debit vai credit: 
+  - Valinta tehdään vain jos kyseessä kaksoiskortti
+  - Jos kyseessä debit-kortti tai credit-kortti, valinta ohitetaan
 - Tilakaavio luotu
 - **Lisäominaisuus** sovittava ohjaajan kanssa
 
-(Huom! Kaksoiskortti on kytketty kahteen eri tiliin, joista toinen on debit-tili ja toinen credit-tili)
 
 <span id="arvosana_tiiviste"></span>
 
@@ -176,11 +132,11 @@ Nämä ovat itse ohjelmistokokonaisuutta koskevat minimit (arviointi):
 |----------------------------|----|----|----|----|----|
 | Kortinlukija toimii        | x  | x  | x  | x  | x  |
 | Kirjautuminen PIN-koodilla | x  | x  | x  | x  | x  |
-| Webtoken autentikointi     | x  | x  | x  | x  | x  |
 | Saldon näyttö              | x  | x  | x  | x  | x  |
 | Rahan nosto (20,40,50,100) | x  | x  | x  | x  | x  |
 | Tilitapahtumien näyttö     | x  | x  | x  | x  | x  |
 | Debit kortti               | x  | x  | x  | x  | x  |
+| Webtoken autentikointi     |    | x  | x  | x  | x  |
 | PIN-koodille 10 s timer    |    | x  | x  | x  | x  |
 | Kaikki CRUD-operaatiot     |    | x  | x  | x  | x  |
 | Credit kortti              |    |    | x  | x  | x  |
@@ -286,87 +242,7 @@ Katso näistä Teams-kanavan dokumenteista mallia teknisen määrittelydokumenti
     - yhdelle tilille voi olla pääsy monella kortilla: vaikkapa koko perheellä 
 -yksi kortti on kytketty moneen eri tiliin (vaikka se on käytännössä korkeintaan kahteen tiliin(debit ja credit).
 ->Tästä seuraa hyvin tavanomainen RELAATIOTIETOKANNAN "pulma" joka  ratkaistaan välitystaulun avulla
-
-
-
-# Lisäominaisuusideoita 
-(arvosanan 5 tarvitaan vähintään yksi tällainen lisäominaisuus)
-
-## Kuvan lataus ja näyttäminen
-
-- Kuvan lataaminen backendiin ja näyttäminen Qt-sovelluksessa (vaikutus arvosanaan 1)
-
-Idean esittelyvideo: [https://www.youtube.com/watch?v=DlKRlZTNYl8](https://www.youtube.com/watch?v=DlKRlZTNYl8)
-
-### Toimintaperiaate:
-
-- Tietokanta taulussa on tekstikenttä, johon tulee kuvan nimi (esim. `aku.jpg`).
-- Kuva ladataan REST APIn kansioon (yleensä `public`-kansioon).
-- Kuva kansioon pitää päästä esim. selaimella.
-- Qt-sovelluksessa kuva näytetään `Label`-komponentissa.
-
-REST APIssa voi käyttää [Multer-moduulia](https://www.npmjs.com/package/multer).
-
-## Swagger dokumentointi
-
-- Lisätään sovellukseen swagger-sivu (vaikutus arvosanaan 1)
-
-Idean esittelyvideo: [https://www.youtube.com/watch?v=M6Fj5Y2K24w](https://www.youtube.com/watch?v=M6Fj5Y2K24w)  
-[https://www.npmjs.com/package/swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
-
-## Logitus
-
-- Tapahtumien logittaminen backendissä ja niiden näyttäminen jollakin tavalla (`morgan`-moduuli). Pelkkä logitus on aika helppo, joten sen vaikutus n. 0,5. Mutta jos keksitte siihen jotain lisää, niin sitten isompi vaikutus.
-
-## WebSocket
-
-Toteutetaan WebSocketeilla jokin toiminto sovellukseen (vaikutus arvosanaan 1).
-
-- Node.js WebSocket: [https://www.npmjs.com/package/ws](https://www.npmjs.com/package/ws)
-- Qt:n websocket-moduuli
-
-Idean esittely: [https://youtu.be/QGnv7s0JIIo](https://youtu.be/QGnv7s0JIIo)
-
-## Docker
-
-Sovelluksen ajaminen Dockerissa (vaikutus arvosanaan 1).
-
-- [https://youtu.be/DseMnAW0OTk](https://youtu.be/DseMnAW0OTk)
-
-## Testien lisääminen backendiin
-
-Esimerkiksi `jest` ja `supertest` (vaikutus arvosanaan 1)
-
-Esittelyvideo: [https://youtu.be/HEZufcp2umI](https://youtu.be/HEZufcp2umI)
-
-Tai Newman
-
-Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
-
-## CI/CD
-
-- Jonkinlainen yksinkertainen CI/CD tai ainakin CD (
-  esim. backendin julkaisu jossain pilvipalvelussa ja qt-sovelluksen "releasen" automatisointi Githubiin tai toiselle palvelimelle ladattavaksi vaikka Github actioneilla)
-(vaikutus arvosanaan 1)
-
-## Verkkopankin toteuttaminen
-
-- Verkkopankin toteuttaminen (vaikutus arvosanaan 1)
-
-## Ylimääräinen Qt-sovellus
-
-- Qt-sovellus pankin henkilökunnalle. Sovelluksella voidaan esimerkiksi luoda uusia asiakkaita, tilejä ja kortteja jne. 
   
-# Generatiiviset tekoälyt (AI-koodaus) ja vastaavat apuvälineet. Ohjaajien (ja yleisestikin IT-opettajien) ajatuksia aiheesta:
-
-- Tekoäly on hyvä renki, mutta huono isäntä. Varsinkin oppimisessa.
-- Tekoälyäkin pitää oppia hyödyntämään, mutta vähän myöhemmin
-- Ensin on kuitenkin syytä opiskella perusteet, oli se sitten vaikkapa IT arkkitehtuurista, ohjelmistotekniikan perusteista, tietoverkoista, tietoturvallisuudesta, tietosuojasta, dokumentoinnoista, elektroniikasta yms.
-- Työnantajat tuskin palkkaavat tuhansia euroja kuussa maksavaa työntekijöitä, jotka ovat pelkästään tekoälykonttoristeja
-- Perusasioiden ymmärrys ei katoa mihinkään ja onhan se myös ammattiylpeyttä suunnitella ja käsittää mitä tapahtuu milloinkin
-- Me ohjaajina emme halua arvioida tekoälyn tekemää sovellusta ja tekemistä, vaan opiskelijoiden. Emme myöskään ryhdy poliisiksi, joka käyttää työaikansa tekoälyn jäljittämiseen, vaan **opiskelijalla on oltava itsellään halu oppia eikä tavoitella pelkästään arvosanoja**
-- Tämän projektikurssin ohjaajia yhdistää vuosikymmeniä kestänyt innostus ja kiinnostus tietotekniikkaan ja uteliaisuus oppia ja kokeilla uutta. Myös teköälyalustoja, jotka on vain uusi mielenkiintoinen vaihe tietotekniikan historiassa. Emme todellakaan ole tekoälyvastaisia, vaan päin vastoin. Niitä on hyvä ja tärkeää oppia hyödyntämään, mutta ei siten että perusteet jää oppimatta!
-
 
 # Viikkopalavereiden yleinen agenda
 
@@ -385,13 +261,9 @@ Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
 1. Luodaan neljän hengen ryhmät [Excel-dokumentissa](<https://unioulu-my.sharepoint.com/:x:/g/personal/alaluuk_oamk_fi/IQBgHAzlTg22TYgV7PycCmFeAbtyxjCUqFPvKd9RjO1HQjc?e=hFPzhm>)
 
 2. Jokainen opiskelija luo tunnuksen itselleen sivustolla
-
-  - SPL: 
-  [https://peatutor.com/project_app/register/tvt25spl](https://peatutor.com/project_app/register/tvt25spl)
-  - SPO:
-  [https://peatutor.com/project_app/register/tvt25spo](https://peatutor.com/project_app/register/tvt25spo)
+  [https://peatutor.com/project_app/register/tvt26](https://peatutor.com/project_app/register/tvt26)
   
-   
+  
     - Voit keksiä minkä hyvänsä tunnuksen (joka on vapaa)
     - Rekisteröityä voi vain oamk.fi ja oulu.fi sähköposteilla
     - Luotuasi tunnuksen, saat sähköpostin, jossa on tunnuksesi ja salasanasi. Pidä ne tallessa.
@@ -654,3 +526,82 @@ git pull origin main
 
 - kloonaavat repositoryn
 - luovat oman branchin
+
+
+# Lisäominaisuusideoita 
+(arvosanan 5 tarvitaan vähintään yksi tällainen lisäominaisuus)
+
+## Kuvan lataus ja näyttäminen
+
+- Kuvan lataaminen backendiin ja näyttäminen Qt-sovelluksessa (vaikutus arvosanaan 1)
+
+Idean esittelyvideo: [https://www.youtube.com/watch?v=DlKRlZTNYl8](https://www.youtube.com/watch?v=DlKRlZTNYl8)
+
+### Toimintaperiaate:
+
+- Tietokanta taulussa on tekstikenttä, johon tulee kuvan nimi (esim. `aku.jpg`).
+- Kuva ladataan REST APIn kansioon (yleensä `public`-kansioon).
+- Kuva kansioon pitää päästä esim. selaimella.
+- Qt-sovelluksessa kuva näytetään `Label`-komponentissa.
+
+REST APIssa voi käyttää [Multer-moduulia](https://www.npmjs.com/package/multer).
+
+## Swagger dokumentointi
+
+- Lisätään sovellukseen swagger-sivu (vaikutus arvosanaan 1)
+
+Idean esittelyvideo: [https://www.youtube.com/watch?v=M6Fj5Y2K24w](https://www.youtube.com/watch?v=M6Fj5Y2K24w)  
+[https://www.npmjs.com/package/swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
+
+## Logitus
+
+- Tapahtumien logittaminen backendissä ja niiden näyttäminen jollakin tavalla (`morgan`-moduuli). Pelkkä logitus on aika helppo, joten sen vaikutus n. 0,5. Mutta jos keksitte siihen jotain lisää, niin sitten isompi vaikutus.
+
+## WebSocket
+
+Toteutetaan WebSocketeilla jokin toiminto sovellukseen (vaikutus arvosanaan 1).
+
+- Node.js WebSocket: [https://www.npmjs.com/package/ws](https://www.npmjs.com/package/ws)
+- Qt:n websocket-moduuli
+
+Idean esittely: [https://youtu.be/QGnv7s0JIIo](https://youtu.be/QGnv7s0JIIo)
+
+## Docker
+
+Sovelluksen ajaminen Dockerissa (vaikutus arvosanaan 1).
+
+- [https://youtu.be/DseMnAW0OTk](https://youtu.be/DseMnAW0OTk)
+
+## Testien lisääminen backendiin
+
+Esimerkiksi `jest` ja `supertest` (vaikutus arvosanaan 1)
+
+Esittelyvideo: [https://youtu.be/HEZufcp2umI](https://youtu.be/HEZufcp2umI)
+
+Tai Newman
+
+Esittelyvideo: [https://youtu.be/Wvv8GWQdvKU](https://youtu.be/Wvv8GWQdvKU)
+
+## CI/CD
+
+- Jonkinlainen yksinkertainen CI/CD tai ainakin CD (
+  esim. backendin julkaisu jossain pilvipalvelussa ja qt-sovelluksen "releasen" automatisointi Githubiin tai toiselle palvelimelle ladattavaksi vaikka Github actioneilla)
+(vaikutus arvosanaan 1)
+
+## Verkkopankin toteuttaminen
+
+- Verkkopankin toteuttaminen (vaikutus arvosanaan 1)
+
+## Ylimääräinen Qt-sovellus
+
+- Qt-sovellus pankin henkilökunnalle. Sovelluksella voidaan esimerkiksi luoda uusia asiakkaita, tilejä ja kortteja jne. 
+
+# Generatiiviset tekoälyt (AI-koodaus) ja vastaavat apuvälineet. Ohjaajien (ja yleisestikin IT-opettajien) ajatuksia aiheesta:
+
+- Tekoäly on hyvä renki, mutta huono isäntä. Varsinkin oppimisessa.
+- Tekoälyäkin pitää oppia hyödyntämään, mutta vähän myöhemmin
+- Ensin on kuitenkin syytä opiskella perusteet, oli se sitten vaikkapa IT arkkitehtuurista, ohjelmistotekniikan perusteista, tietoverkoista, tietoturvallisuudesta, tietosuojasta, dokumentoinnoista, elektroniikasta yms.
+- Työnantajat tuskin palkkaavat tuhansia euroja kuussa maksavaa työntekijöitä, jotka ovat pelkästään tekoälykonttoristeja
+- Perusasioiden ymmärrys ei katoa mihinkään ja onhan se myös ammattiylpeyttä suunnitella ja käsittää mitä tapahtuu milloinkin
+- Me ohjaajina emme halua arvioida tekoälyn tekemää sovellusta ja tekemistä, vaan opiskelijoiden. Emme myöskään ryhdy poliisiksi, joka käyttää työaikansa tekoälyn jäljittämiseen, vaan **opiskelijalla on oltava itsellään halu oppia eikä tavoitella pelkästään arvosanoja**
+- Tämän projektikurssin ohjaajia yhdistää vuosikymmeniä kestänyt innostus ja kiinnostus tietotekniikkaan ja uteliaisuus oppia ja kokeilla uutta. Myös teköälyalustoja, jotka on vain uusi mielenkiintoinen vaihe tietotekniikan historiassa. Emme todellakaan ole tekoälyvastaisia, vaan päin vastoin. Niitä on hyvä ja tärkeää oppia hyödyntämään, mutta ei siten että perusteet jää oppimatta!
