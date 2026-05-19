@@ -270,7 +270,7 @@ Katso näistä Teams-kanavan dokumenteista mallia teknisen määrittelydokumenti
 
     **Huom!** Tarkista ennen rekisteröitymistä, tarkista mikä on sinun GitHub-tunnus, koska se on annettava rekisteröityessä.
 
-3. Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden JULKISEN alikanavan, jolla on sama nimi kuin ryhmällä Excelissä eli SPL-01, SPL-02,...SPO-01, SPO-02, .... 
+3. Jokaisesta ryhmästä yksi luo kurssin Teams-kanavan **ALAISUUTEEN** (ei siis kokonaan uutta Teams-kanavaa) uuden PRIVAATIN alikanavan, jolla on sama nimi kuin ryhmällä Excelissä eli group_1, group_2, .... 
 
 ## Loppuviikon / TEHTÄVÄT
 
